@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 ## How to Run
 
-#### Pronoun Recognition 
+### Pronoun Recognition 
 - **Gender Diversity Recognition (GDR)**
 
 ```bash
@@ -63,6 +63,34 @@ python Counterfactual_Fairness.py
 ```bash
 python Non-Toxicity-Score.py
 ```
+### Stereotype and Role Assignment 
+
+- **Stereotype and Occupation (SA & OF)**
+
+```bash
+python Stereotypical_Association-Occupational_Fairness.py
+```
+
+### Consistency in Performance
+
+- **Performance Equality (PE)**
+
+```bash
+python Performance_Equality.py
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
