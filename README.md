@@ -27,6 +27,7 @@ Our study highlights the importance of improving LLMs’ inclusivity, providing 
 ## Datasets
 
 `data/model-generation/`
+
 - **gender-pronoun-recognition**: Contains generated sentences for gender diversity recognition.
 - **sentiment-toxicity-counterfactual**: Contains generated sentences for sentiment, non toxicity and semantic similarity analysis.
 - **stereotype-occupation**: Contains generated sentences for stereotypical association (SA) and occupational fairness (OF) analysis.
@@ -63,6 +64,7 @@ python Counterfactual_Fairness.py
 ```
 
 - Non-Toxicity Score (NTS)
+
 Set up your API key at here.
 
 ```bash
