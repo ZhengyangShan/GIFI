@@ -26,14 +26,11 @@ Our study highlights the importance of improving LLMs’ inclusivity, providing 
 
 ## Datasets
 
-- **Folder 1**: `data/model-generation/gender-pronoun-recognition/`
-  - Description: Contains generated sentences for gender diversity recognition.
-- **Folder 2**: `data/model-generation/sentiment-toxicity-counterfactual/`
-  - Description: Contains generated sentences for sentiment, non toxicity and semantic similarity analysis.
-- **Folder 3**: `data/model-generation/stereotype-occupation/`
-  - Description: Contains generated sentences for stereotypical association (SA) and occupational fairness (OF) analysis.
-- **Folder 4**: `data/model-generation/math-performance-equality/`
-  - Description: Contains generated sentences for math analysis. 
+`data/model-generation/`
+- **gender-pronoun-recognition**: Contains generated sentences for gender diversity recognition.
+- **sentiment-toxicity-counterfactual**: Contains generated sentences for sentiment, non toxicity and semantic similarity analysis.
+- **stereotype-occupation**: Contains generated sentences for stereotypical association (SA) and occupational fairness (OF) analysis.
+- **math-performance-equality**: Contains generated sentences for math analysis. 
 
 ## Requirements
 
@@ -46,26 +43,27 @@ pip install -r requirements.txt
 ## Evaluation
 
 ### Pronoun Recognition 
-- **Gender Diversity Recognition (GDR)**
+- Gender Diversity Recognition (GDR)
 
 ```bash
 python Gender_Diversity_Recognition.py
 ```
 
 ### Fairness in Distribution 
-- **Sentiment Neutrality (SN)**
+- Sentiment Neutrality (SN)
 
 ```bash
 python Sentiment_Neutrality.py
 ```
 
-- **Counterfactual Fairness (CF)**
+- Counterfactual Fairness (CF)
 
 ```bash
 python Counterfactual_Fairness.py
 ```
 
-- **Non-Toxicity Score (NTS)**
+- Non-Toxicity Score (NTS)
+Set up your API key at here.
 
 ```bash
 python Non-Toxicity-Score.py
@@ -80,7 +78,7 @@ python Stereotypical_Association-Occupational_Fairness.py
 
 ### Consistency in Performance
 
-- **Performance Equality (PE)**
+- Performance Equality (PE)
 
 ```bash
 python Performance_Equality.py
