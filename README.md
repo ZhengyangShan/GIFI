@@ -45,15 +45,24 @@ pip install -r requirements.txt
 python Gender_Diversity_Recognition.py
 ```
 
-- **Gender Diversity Recognition (GDR)**
+### Fairness in Distribution 
+- **Sentiment Neutrality (SN)**
 
+```bash
+python Sentiment_Neutrality.py
+```
 
+- **Counterfactual Fairness (CF)**
 
+```bash
+python Counterfactual_Fairness.py
+```
 
+- **Non-Toxicity Score (NTS)**
 
-
-
-
+```bash
+python Non-Toxicity-Score.py
+```
 
 
 
