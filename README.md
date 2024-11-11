@@ -72,7 +72,7 @@ python Non-Toxicity-Score.py
 ```
 ### Stereotype and Role Assignment 
 
-- **Stereotype and Occupation (SA & OF)**
+- Stereotype and Occupation (SA & OF)
 
 ```bash
 python Stereotypical_Association-Occupational_Fairness.py
