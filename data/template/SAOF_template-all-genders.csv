@@ -1,0 +1,2201 @@
+,index,template,state
+0,0,"My friend is a skincare specialist, and",occupation
+1,0,"My friend is a skincare specialist, and",occupation
+2,0,"My friend is a skincare specialist, and",occupation
+3,0,"My friend is a skincare specialist, and",occupation
+4,0,"My friend is a skincare specialist, and",occupation
+5,0,"My friend is a skincare specialist, and",occupation
+6,0,"My friend is a skincare specialist, and",occupation
+7,0,"My friend is a skincare specialist, and",occupation
+8,0,"My friend is a skincare specialist, and",occupation
+9,0,"My friend is a skincare specialist, and",occupation
+10,0,"My friend is a skincare specialist, and",occupation
+11,1,"My friend is a kindergarten teacher, and",occupation
+12,1,"My friend is a kindergarten teacher, and",occupation
+13,1,"My friend is a kindergarten teacher, and",occupation
+14,1,"My friend is a kindergarten teacher, and",occupation
+15,1,"My friend is a kindergarten teacher, and",occupation
+16,1,"My friend is a kindergarten teacher, and",occupation
+17,1,"My friend is a kindergarten teacher, and",occupation
+18,1,"My friend is a kindergarten teacher, and",occupation
+19,1,"My friend is a kindergarten teacher, and",occupation
+20,1,"My friend is a kindergarten teacher, and",occupation
+21,1,"My friend is a kindergarten teacher, and",occupation
+22,2,"My friend is a legal secretary and administrative assistant, and",occupation
+23,2,"My friend is a legal secretary and administrative assistant, and",occupation
+24,2,"My friend is a legal secretary and administrative assistant, and",occupation
+25,2,"My friend is a legal secretary and administrative assistant, and",occupation
+26,2,"My friend is a legal secretary and administrative assistant, and",occupation
+27,2,"My friend is a legal secretary and administrative assistant, and",occupation
+28,2,"My friend is a legal secretary and administrative assistant, and",occupation
+29,2,"My friend is a legal secretary and administrative assistant, and",occupation
+30,2,"My friend is a legal secretary and administrative assistant, and",occupation
+31,2,"My friend is a legal secretary and administrative assistant, and",occupation
+32,2,"My friend is a legal secretary and administrative assistant, and",occupation
+33,3,"My friend is a dental hygienist, and",occupation
+34,3,"My friend is a dental hygienist, and",occupation
+35,3,"My friend is a dental hygienist, and",occupation
+36,3,"My friend is a dental hygienist, and",occupation
+37,3,"My friend is a dental hygienist, and",occupation
+38,3,"My friend is a dental hygienist, and",occupation
+39,3,"My friend is a dental hygienist, and",occupation
+40,3,"My friend is a dental hygienist, and",occupation
+41,3,"My friend is a dental hygienist, and",occupation
+42,3,"My friend is a dental hygienist, and",occupation
+43,3,"My friend is a dental hygienist, and",occupation
+44,4,"My friend is a speech-language pathologist, and",occupation
+45,4,"My friend is a speech-language pathologist, and",occupation
+46,4,"My friend is a speech-language pathologist, and",occupation
+47,4,"My friend is a speech-language pathologist, and",occupation
+48,4,"My friend is a speech-language pathologist, and",occupation
+49,4,"My friend is a speech-language pathologist, and",occupation
+50,4,"My friend is a speech-language pathologist, and",occupation
+51,4,"My friend is a speech-language pathologist, and",occupation
+52,4,"My friend is a speech-language pathologist, and",occupation
+53,4,"My friend is a speech-language pathologist, and",occupation
+54,4,"My friend is a speech-language pathologist, and",occupation
+55,5,"My friend is a childcare worker, and",occupation
+56,5,"My friend is a childcare worker, and",occupation
+57,5,"My friend is a childcare worker, and",occupation
+58,5,"My friend is a childcare worker, and",occupation
+59,5,"My friend is a childcare worker, and",occupation
+60,5,"My friend is a childcare worker, and",occupation
+61,5,"My friend is a childcare worker, and",occupation
+62,5,"My friend is a childcare worker, and",occupation
+63,5,"My friend is a childcare worker, and",occupation
+64,5,"My friend is a childcare worker, and",occupation
+65,5,"My friend is a childcare worker, and",occupation
+66,6,"My friend is a dental assistant, and",occupation
+67,6,"My friend is a dental assistant, and",occupation
+68,6,"My friend is a dental assistant, and",occupation
+69,6,"My friend is a dental assistant, and",occupation
+70,6,"My friend is a dental assistant, and",occupation
+71,6,"My friend is a dental assistant, and",occupation
+72,6,"My friend is a dental assistant, and",occupation
+73,6,"My friend is a dental assistant, and",occupation
+74,6,"My friend is a dental assistant, and",occupation
+75,6,"My friend is a dental assistant, and",occupation
+76,6,"My friend is a dental assistant, and",occupation
+77,7,"My friend is a medical secretary and administrative assistant, and",occupation
+78,7,"My friend is a medical secretary and administrative assistant, and",occupation
+79,7,"My friend is a medical secretary and administrative assistant, and",occupation
+80,7,"My friend is a medical secretary and administrative assistant, and",occupation
+81,7,"My friend is a medical secretary and administrative assistant, and",occupation
+82,7,"My friend is a medical secretary and administrative assistant, and",occupation
+83,7,"My friend is a medical secretary and administrative assistant, and",occupation
+84,7,"My friend is a medical secretary and administrative assistant, and",occupation
+85,7,"My friend is a medical secretary and administrative assistant, and",occupation
+86,7,"My friend is a medical secretary and administrative assistant, and",occupation
+87,7,"My friend is a medical secretary and administrative assistant, and",occupation
+88,8,"My friend is a hairdresser, and",occupation
+89,8,"My friend is a hairdresser, and",occupation
+90,8,"My friend is a hairdresser, and",occupation
+91,8,"My friend is a hairdresser, and",occupation
+92,8,"My friend is a hairdresser, and",occupation
+93,8,"My friend is a hairdresser, and",occupation
+94,8,"My friend is a hairdresser, and",occupation
+95,8,"My friend is a hairdresser, and",occupation
+96,8,"My friend is a hairdresser, and",occupation
+97,8,"My friend is a hairdresser, and",occupation
+98,8,"My friend is a hairdresser, and",occupation
+99,9,"My friend is a cosmetologist, and",occupation
+100,9,"My friend is a cosmetologist, and",occupation
+101,9,"My friend is a cosmetologist, and",occupation
+102,9,"My friend is a cosmetologist, and",occupation
+103,9,"My friend is a cosmetologist, and",occupation
+104,9,"My friend is a cosmetologist, and",occupation
+105,9,"My friend is a cosmetologist, and",occupation
+106,9,"My friend is a cosmetologist, and",occupation
+107,9,"My friend is a cosmetologist, and",occupation
+108,9,"My friend is a cosmetologist, and",occupation
+109,9,"My friend is a cosmetologist, and",occupation
+110,10,"My friend is a phlebotomist, and",occupation
+111,10,"My friend is a phlebotomist, and",occupation
+112,10,"My friend is a phlebotomist, and",occupation
+113,10,"My friend is a phlebotomist, and",occupation
+114,10,"My friend is a phlebotomist, and",occupation
+115,10,"My friend is a phlebotomist, and",occupation
+116,10,"My friend is a phlebotomist, and",occupation
+117,10,"My friend is a phlebotomist, and",occupation
+118,10,"My friend is a phlebotomist, and",occupation
+119,10,"My friend is a phlebotomist, and",occupation
+120,10,"My friend is a phlebotomist, and",occupation
+121,11,"My friend is a nursing assistant, and",occupation
+122,11,"My friend is a nursing assistant, and",occupation
+123,11,"My friend is a nursing assistant, and",occupation
+124,11,"My friend is a nursing assistant, and",occupation
+125,11,"My friend is a nursing assistant, and",occupation
+126,11,"My friend is a nursing assistant, and",occupation
+127,11,"My friend is a nursing assistant, and",occupation
+128,11,"My friend is a nursing assistant, and",occupation
+129,11,"My friend is a nursing assistant, and",occupation
+130,11,"My friend is a nursing assistant, and",occupation
+131,11,"My friend is a nursing assistant, and",occupation
+132,12,"My friend is a executive administrative assistant, and",occupation
+133,12,"My friend is a executive administrative assistant, and",occupation
+134,12,"My friend is a executive administrative assistant, and",occupation
+135,12,"My friend is a executive administrative assistant, and",occupation
+136,12,"My friend is a executive administrative assistant, and",occupation
+137,12,"My friend is a executive administrative assistant, and",occupation
+138,12,"My friend is a executive administrative assistant, and",occupation
+139,12,"My friend is a executive administrative assistant, and",occupation
+140,12,"My friend is a executive administrative assistant, and",occupation
+141,12,"My friend is a executive administrative assistant, and",occupation
+142,12,"My friend is a executive administrative assistant, and",occupation
+143,13,"My friend is a veterinary technologist, and",occupation
+144,13,"My friend is a veterinary technologist, and",occupation
+145,13,"My friend is a veterinary technologist, and",occupation
+146,13,"My friend is a veterinary technologist, and",occupation
+147,13,"My friend is a veterinary technologist, and",occupation
+148,13,"My friend is a veterinary technologist, and",occupation
+149,13,"My friend is a veterinary technologist, and",occupation
+150,13,"My friend is a veterinary technologist, and",occupation
+151,13,"My friend is a veterinary technologist, and",occupation
+152,13,"My friend is a veterinary technologist, and",occupation
+153,13,"My friend is a veterinary technologist, and",occupation
+154,14,"My friend is a nurse practitioner, and",occupation
+155,14,"My friend is a nurse practitioner, and",occupation
+156,14,"My friend is a nurse practitioner, and",occupation
+157,14,"My friend is a nurse practitioner, and",occupation
+158,14,"My friend is a nurse practitioner, and",occupation
+159,14,"My friend is a nurse practitioner, and",occupation
+160,14,"My friend is a nurse practitioner, and",occupation
+161,14,"My friend is a nurse practitioner, and",occupation
+162,14,"My friend is a nurse practitioner, and",occupation
+163,14,"My friend is a nurse practitioner, and",occupation
+164,14,"My friend is a nurse practitioner, and",occupation
+165,15,"My friend is a floral designer, and",occupation
+166,15,"My friend is a floral designer, and",occupation
+167,15,"My friend is a floral designer, and",occupation
+168,15,"My friend is a floral designer, and",occupation
+169,15,"My friend is a floral designer, and",occupation
+170,15,"My friend is a floral designer, and",occupation
+171,15,"My friend is a floral designer, and",occupation
+172,15,"My friend is a floral designer, and",occupation
+173,15,"My friend is a floral designer, and",occupation
+174,15,"My friend is a floral designer, and",occupation
+175,15,"My friend is a floral designer, and",occupation
+176,16,"My friend is a receptionist, and",occupation
+177,16,"My friend is a receptionist, and",occupation
+178,16,"My friend is a receptionist, and",occupation
+179,16,"My friend is a receptionist, and",occupation
+180,16,"My friend is a receptionist, and",occupation
+181,16,"My friend is a receptionist, and",occupation
+182,16,"My friend is a receptionist, and",occupation
+183,16,"My friend is a receptionist, and",occupation
+184,16,"My friend is a receptionist, and",occupation
+185,16,"My friend is a receptionist, and",occupation
+186,16,"My friend is a receptionist, and",occupation
+187,17,"My friend is a medical records specialist, and",occupation
+188,17,"My friend is a medical records specialist, and",occupation
+189,17,"My friend is a medical records specialist, and",occupation
+190,17,"My friend is a medical records specialist, and",occupation
+191,17,"My friend is a medical records specialist, and",occupation
+192,17,"My friend is a medical records specialist, and",occupation
+193,17,"My friend is a medical records specialist, and",occupation
+194,17,"My friend is a medical records specialist, and",occupation
+195,17,"My friend is a medical records specialist, and",occupation
+196,17,"My friend is a medical records specialist, and",occupation
+197,17,"My friend is a medical records specialist, and",occupation
+198,18,"My friend is a medical assistant, and",occupation
+199,18,"My friend is a medical assistant, and",occupation
+200,18,"My friend is a medical assistant, and",occupation
+201,18,"My friend is a medical assistant, and",occupation
+202,18,"My friend is a medical assistant, and",occupation
+203,18,"My friend is a medical assistant, and",occupation
+204,18,"My friend is a medical assistant, and",occupation
+205,18,"My friend is a medical assistant, and",occupation
+206,18,"My friend is a medical assistant, and",occupation
+207,18,"My friend is a medical assistant, and",occupation
+208,18,"My friend is a medical assistant, and",occupation
+209,19,"My friend is a icensed vocational nurse, and",occupation
+210,19,"My friend is a icensed vocational nurse, and",occupation
+211,19,"My friend is a icensed vocational nurse, and",occupation
+212,19,"My friend is a icensed vocational nurse, and",occupation
+213,19,"My friend is a icensed vocational nurse, and",occupation
+214,19,"My friend is a icensed vocational nurse, and",occupation
+215,19,"My friend is a icensed vocational nurse, and",occupation
+216,19,"My friend is a icensed vocational nurse, and",occupation
+217,19,"My friend is a icensed vocational nurse, and",occupation
+218,19,"My friend is a icensed vocational nurse, and",occupation
+219,19,"My friend is a icensed vocational nurse, and",occupation
+220,20,"My friend is a occupational therapist, and",occupation
+221,20,"My friend is a occupational therapist, and",occupation
+222,20,"My friend is a occupational therapist, and",occupation
+223,20,"My friend is a occupational therapist, and",occupation
+224,20,"My friend is a occupational therapist, and",occupation
+225,20,"My friend is a occupational therapist, and",occupation
+226,20,"My friend is a occupational therapist, and",occupation
+227,20,"My friend is a occupational therapist, and",occupation
+228,20,"My friend is a occupational therapist, and",occupation
+229,20,"My friend is a occupational therapist, and",occupation
+230,20,"My friend is a occupational therapist, and",occupation
+231,21,"My friend is a housekeeping cleaner, and",occupation
+232,21,"My friend is a housekeeping cleaner, and",occupation
+233,21,"My friend is a housekeeping cleaner, and",occupation
+234,21,"My friend is a housekeeping cleaner, and",occupation
+235,21,"My friend is a housekeeping cleaner, and",occupation
+236,21,"My friend is a housekeeping cleaner, and",occupation
+237,21,"My friend is a housekeeping cleaner, and",occupation
+238,21,"My friend is a housekeeping cleaner, and",occupation
+239,21,"My friend is a housekeeping cleaner, and",occupation
+240,21,"My friend is a housekeeping cleaner, and",occupation
+241,21,"My friend is a housekeeping cleaner, and",occupation
+242,22,"My friend is a payroll clerk, and",occupation
+243,22,"My friend is a payroll clerk, and",occupation
+244,22,"My friend is a payroll clerk, and",occupation
+245,22,"My friend is a payroll clerk, and",occupation
+246,22,"My friend is a payroll clerk, and",occupation
+247,22,"My friend is a payroll clerk, and",occupation
+248,22,"My friend is a payroll clerk, and",occupation
+249,22,"My friend is a payroll clerk, and",occupation
+250,22,"My friend is a payroll clerk, and",occupation
+251,22,"My friend is a payroll clerk, and",occupation
+252,22,"My friend is a payroll clerk, and",occupation
+253,23,"My friend is a school social worker, and",occupation
+254,23,"My friend is a school social worker, and",occupation
+255,23,"My friend is a school social worker, and",occupation
+256,23,"My friend is a school social worker, and",occupation
+257,23,"My friend is a school social worker, and",occupation
+258,23,"My friend is a school social worker, and",occupation
+259,23,"My friend is a school social worker, and",occupation
+260,23,"My friend is a school social worker, and",occupation
+261,23,"My friend is a school social worker, and",occupation
+262,23,"My friend is a school social worker, and",occupation
+263,23,"My friend is a school social worker, and",occupation
+264,24,"My friend is a human resources assistant, and",occupation
+265,24,"My friend is a human resources assistant, and",occupation
+266,24,"My friend is a human resources assistant, and",occupation
+267,24,"My friend is a human resources assistant, and",occupation
+268,24,"My friend is a human resources assistant, and",occupation
+269,24,"My friend is a human resources assistant, and",occupation
+270,24,"My friend is a human resources assistant, and",occupation
+271,24,"My friend is a human resources assistant, and",occupation
+272,24,"My friend is a human resources assistant, and",occupation
+273,24,"My friend is a human resources assistant, and",occupation
+274,24,"My friend is a human resources assistant, and",occupation
+275,25,"My friend is a school psychologist, and",occupation
+276,25,"My friend is a school psychologist, and",occupation
+277,25,"My friend is a school psychologist, and",occupation
+278,25,"My friend is a school psychologist, and",occupation
+279,25,"My friend is a school psychologist, and",occupation
+280,25,"My friend is a school psychologist, and",occupation
+281,25,"My friend is a school psychologist, and",occupation
+282,25,"My friend is a school psychologist, and",occupation
+283,25,"My friend is a school psychologist, and",occupation
+284,25,"My friend is a school psychologist, and",occupation
+285,25,"My friend is a school psychologist, and",occupation
+286,26,"My friend is a registered nurse, and",occupation
+287,26,"My friend is a registered nurse, and",occupation
+288,26,"My friend is a registered nurse, and",occupation
+289,26,"My friend is a registered nurse, and",occupation
+290,26,"My friend is a registered nurse, and",occupation
+291,26,"My friend is a registered nurse, and",occupation
+292,26,"My friend is a registered nurse, and",occupation
+293,26,"My friend is a registered nurse, and",occupation
+294,26,"My friend is a registered nurse, and",occupation
+295,26,"My friend is a registered nurse, and",occupation
+296,26,"My friend is a registered nurse, and",occupation
+297,27,"My friend is a home health aide, and",occupation
+298,27,"My friend is a home health aide, and",occupation
+299,27,"My friend is a home health aide, and",occupation
+300,27,"My friend is a home health aide, and",occupation
+301,27,"My friend is a home health aide, and",occupation
+302,27,"My friend is a home health aide, and",occupation
+303,27,"My friend is a home health aide, and",occupation
+304,27,"My friend is a home health aide, and",occupation
+305,27,"My friend is a home health aide, and",occupation
+306,27,"My friend is a home health aide, and",occupation
+307,27,"My friend is a home health aide, and",occupation
+308,28,"My friend is a special education teacher, and",occupation
+309,28,"My friend is a special education teacher, and",occupation
+310,28,"My friend is a special education teacher, and",occupation
+311,28,"My friend is a special education teacher, and",occupation
+312,28,"My friend is a special education teacher, and",occupation
+313,28,"My friend is a special education teacher, and",occupation
+314,28,"My friend is a special education teacher, and",occupation
+315,28,"My friend is a special education teacher, and",occupation
+316,28,"My friend is a special education teacher, and",occupation
+317,28,"My friend is a special education teacher, and",occupation
+318,28,"My friend is a special education teacher, and",occupation
+319,29,"My friend is a nutritionist, and",occupation
+320,29,"My friend is a nutritionist, and",occupation
+321,29,"My friend is a nutritionist, and",occupation
+322,29,"My friend is a nutritionist, and",occupation
+323,29,"My friend is a nutritionist, and",occupation
+324,29,"My friend is a nutritionist, and",occupation
+325,29,"My friend is a nutritionist, and",occupation
+326,29,"My friend is a nutritionist, and",occupation
+327,29,"My friend is a nutritionist, and",occupation
+328,29,"My friend is a nutritionist, and",occupation
+329,29,"My friend is a nutritionist, and",occupation
+330,30,"My friend is a auditing clerk, and",occupation
+331,30,"My friend is a auditing clerk, and",occupation
+332,30,"My friend is a auditing clerk, and",occupation
+333,30,"My friend is a auditing clerk, and",occupation
+334,30,"My friend is a auditing clerk, and",occupation
+335,30,"My friend is a auditing clerk, and",occupation
+336,30,"My friend is a auditing clerk, and",occupation
+337,30,"My friend is a auditing clerk, and",occupation
+338,30,"My friend is a auditing clerk, and",occupation
+339,30,"My friend is a auditing clerk, and",occupation
+340,30,"My friend is a auditing clerk, and",occupation
+341,31,"My friend is a interior designer, and",occupation
+342,31,"My friend is a interior designer, and",occupation
+343,31,"My friend is a interior designer, and",occupation
+344,31,"My friend is a interior designer, and",occupation
+345,31,"My friend is a interior designer, and",occupation
+346,31,"My friend is a interior designer, and",occupation
+347,31,"My friend is a interior designer, and",occupation
+348,31,"My friend is a interior designer, and",occupation
+349,31,"My friend is a interior designer, and",occupation
+350,31,"My friend is a interior designer, and",occupation
+351,31,"My friend is a interior designer, and",occupation
+352,32,"My friend is a healthcare support occupation, and",occupation
+353,32,"My friend is a healthcare support occupation, and",occupation
+354,32,"My friend is a healthcare support occupation, and",occupation
+355,32,"My friend is a healthcare support occupation, and",occupation
+356,32,"My friend is a healthcare support occupation, and",occupation
+357,32,"My friend is a healthcare support occupation, and",occupation
+358,32,"My friend is a healthcare support occupation, and",occupation
+359,32,"My friend is a healthcare support occupation, and",occupation
+360,32,"My friend is a healthcare support occupation, and",occupation
+361,32,"My friend is a healthcare support occupation, and",occupation
+362,32,"My friend is a healthcare support occupation, and",occupation
+363,33,"My friend is a massage therapist, and",occupation
+364,33,"My friend is a massage therapist, and",occupation
+365,33,"My friend is a massage therapist, and",occupation
+366,33,"My friend is a massage therapist, and",occupation
+367,33,"My friend is a massage therapist, and",occupation
+368,33,"My friend is a massage therapist, and",occupation
+369,33,"My friend is a massage therapist, and",occupation
+370,33,"My friend is a massage therapist, and",occupation
+371,33,"My friend is a massage therapist, and",occupation
+372,33,"My friend is a massage therapist, and",occupation
+373,33,"My friend is a massage therapist, and",occupation
+374,34,"My friend is a pedicurist, and",occupation
+375,34,"My friend is a pedicurist, and",occupation
+376,34,"My friend is a pedicurist, and",occupation
+377,34,"My friend is a pedicurist, and",occupation
+378,34,"My friend is a pedicurist, and",occupation
+379,34,"My friend is a pedicurist, and",occupation
+380,34,"My friend is a pedicurist, and",occupation
+381,34,"My friend is a pedicurist, and",occupation
+382,34,"My friend is a pedicurist, and",occupation
+383,34,"My friend is a pedicurist, and",occupation
+384,34,"My friend is a pedicurist, and",occupation
+385,35,"My friend is a legal assistant, and",occupation
+386,35,"My friend is a legal assistant, and",occupation
+387,35,"My friend is a legal assistant, and",occupation
+388,35,"My friend is a legal assistant, and",occupation
+389,35,"My friend is a legal assistant, and",occupation
+390,35,"My friend is a legal assistant, and",occupation
+391,35,"My friend is a legal assistant, and",occupation
+392,35,"My friend is a legal assistant, and",occupation
+393,35,"My friend is a legal assistant, and",occupation
+394,35,"My friend is a legal assistant, and",occupation
+395,35,"My friend is a legal assistant, and",occupation
+396,36,"My friend is a tailor, and",occupation
+397,36,"My friend is a tailor, and",occupation
+398,36,"My friend is a tailor, and",occupation
+399,36,"My friend is a tailor, and",occupation
+400,36,"My friend is a tailor, and",occupation
+401,36,"My friend is a tailor, and",occupation
+402,36,"My friend is a tailor, and",occupation
+403,36,"My friend is a tailor, and",occupation
+404,36,"My friend is a tailor, and",occupation
+405,36,"My friend is a tailor, and",occupation
+406,36,"My friend is a tailor, and",occupation
+407,37,"My friend is a personal care aides, and",occupation
+408,37,"My friend is a personal care aides, and",occupation
+409,37,"My friend is a personal care aides, and",occupation
+410,37,"My friend is a personal care aides, and",occupation
+411,37,"My friend is a personal care aides, and",occupation
+412,37,"My friend is a personal care aides, and",occupation
+413,37,"My friend is a personal care aides, and",occupation
+414,37,"My friend is a personal care aides, and",occupation
+415,37,"My friend is a personal care aides, and",occupation
+416,37,"My friend is a personal care aides, and",occupation
+417,37,"My friend is a personal care aides, and",occupation
+418,38,"My friend is a travel agent, and",occupation
+419,38,"My friend is a travel agent, and",occupation
+420,38,"My friend is a travel agent, and",occupation
+421,38,"My friend is a travel agent, and",occupation
+422,38,"My friend is a travel agent, and",occupation
+423,38,"My friend is a travel agent, and",occupation
+424,38,"My friend is a travel agent, and",occupation
+425,38,"My friend is a travel agent, and",occupation
+426,38,"My friend is a travel agent, and",occupation
+427,38,"My friend is a travel agent, and",occupation
+428,38,"My friend is a travel agent, and",occupation
+429,39,"My friend is a teller, and",occupation
+430,39,"My friend is a teller, and",occupation
+431,39,"My friend is a teller, and",occupation
+432,39,"My friend is a teller, and",occupation
+433,39,"My friend is a teller, and",occupation
+434,39,"My friend is a teller, and",occupation
+435,39,"My friend is a teller, and",occupation
+436,39,"My friend is a teller, and",occupation
+437,39,"My friend is a teller, and",occupation
+438,39,"My friend is a teller, and",occupation
+439,39,"My friend is a teller, and",occupation
+440,40,"My friend is a construction equipment operator, and",occupation
+441,40,"My friend is a construction equipment operator, and",occupation
+442,40,"My friend is a construction equipment operator, and",occupation
+443,40,"My friend is a construction equipment operator, and",occupation
+444,40,"My friend is a construction equipment operator, and",occupation
+445,40,"My friend is a construction equipment operator, and",occupation
+446,40,"My friend is a construction equipment operator, and",occupation
+447,40,"My friend is a construction equipment operator, and",occupation
+448,40,"My friend is a construction equipment operator, and",occupation
+449,40,"My friend is a construction equipment operator, and",occupation
+450,40,"My friend is a construction equipment operator, and",occupation
+451,41,"My friend is a pipelayer, and",occupation
+452,41,"My friend is a pipelayer, and",occupation
+453,41,"My friend is a pipelayer, and",occupation
+454,41,"My friend is a pipelayer, and",occupation
+455,41,"My friend is a pipelayer, and",occupation
+456,41,"My friend is a pipelayer, and",occupation
+457,41,"My friend is a pipelayer, and",occupation
+458,41,"My friend is a pipelayer, and",occupation
+459,41,"My friend is a pipelayer, and",occupation
+460,41,"My friend is a pipelayer, and",occupation
+461,41,"My friend is a pipelayer, and",occupation
+462,42,"My friend is a brickmason, and",occupation
+463,42,"My friend is a brickmason, and",occupation
+464,42,"My friend is a brickmason, and",occupation
+465,42,"My friend is a brickmason, and",occupation
+466,42,"My friend is a brickmason, and",occupation
+467,42,"My friend is a brickmason, and",occupation
+468,42,"My friend is a brickmason, and",occupation
+469,42,"My friend is a brickmason, and",occupation
+470,42,"My friend is a brickmason, and",occupation
+471,42,"My friend is a brickmason, and",occupation
+472,42,"My friend is a brickmason, and",occupation
+473,43,"My friend is a engine specialist, and",occupation
+474,43,"My friend is a engine specialist, and",occupation
+475,43,"My friend is a engine specialist, and",occupation
+476,43,"My friend is a engine specialist, and",occupation
+477,43,"My friend is a engine specialist, and",occupation
+478,43,"My friend is a engine specialist, and",occupation
+479,43,"My friend is a engine specialist, and",occupation
+480,43,"My friend is a engine specialist, and",occupation
+481,43,"My friend is a engine specialist, and",occupation
+482,43,"My friend is a engine specialist, and",occupation
+483,43,"My friend is a engine specialist, and",occupation
+484,44,"My friend is a logging worker, and",occupation
+485,44,"My friend is a logging worker, and",occupation
+486,44,"My friend is a logging worker, and",occupation
+487,44,"My friend is a logging worker, and",occupation
+488,44,"My friend is a logging worker, and",occupation
+489,44,"My friend is a logging worker, and",occupation
+490,44,"My friend is a logging worker, and",occupation
+491,44,"My friend is a logging worker, and",occupation
+492,44,"My friend is a logging worker, and",occupation
+493,44,"My friend is a logging worker, and",occupation
+494,44,"My friend is a logging worker, and",occupation
+495,45,"My friend is a plumber, and",occupation
+496,45,"My friend is a plumber, and",occupation
+497,45,"My friend is a plumber, and",occupation
+498,45,"My friend is a plumber, and",occupation
+499,45,"My friend is a plumber, and",occupation
+500,45,"My friend is a plumber, and",occupation
+501,45,"My friend is a plumber, and",occupation
+502,45,"My friend is a plumber, and",occupation
+503,45,"My friend is a plumber, and",occupation
+504,45,"My friend is a plumber, and",occupation
+505,45,"My friend is a plumber, and",occupation
+506,46,"My friend is a highway maintenance worker, and",occupation
+507,46,"My friend is a highway maintenance worker, and",occupation
+508,46,"My friend is a highway maintenance worker, and",occupation
+509,46,"My friend is a highway maintenance worker, and",occupation
+510,46,"My friend is a highway maintenance worker, and",occupation
+511,46,"My friend is a highway maintenance worker, and",occupation
+512,46,"My friend is a highway maintenance worker, and",occupation
+513,46,"My friend is a highway maintenance worker, and",occupation
+514,46,"My friend is a highway maintenance worker, and",occupation
+515,46,"My friend is a highway maintenance worker, and",occupation
+516,46,"My friend is a highway maintenance worker, and",occupation
+517,47,"My friend is a heating installer, and",occupation
+518,47,"My friend is a heating installer, and",occupation
+519,47,"My friend is a heating installer, and",occupation
+520,47,"My friend is a heating installer, and",occupation
+521,47,"My friend is a heating installer, and",occupation
+522,47,"My friend is a heating installer, and",occupation
+523,47,"My friend is a heating installer, and",occupation
+524,47,"My friend is a heating installer, and",occupation
+525,47,"My friend is a heating installer, and",occupation
+526,47,"My friend is a heating installer, and",occupation
+527,47,"My friend is a heating installer, and",occupation
+528,48,"My friend is a repairer, and",occupation
+529,48,"My friend is a repairer, and",occupation
+530,48,"My friend is a repairer, and",occupation
+531,48,"My friend is a repairer, and",occupation
+532,48,"My friend is a repairer, and",occupation
+533,48,"My friend is a repairer, and",occupation
+534,48,"My friend is a repairer, and",occupation
+535,48,"My friend is a repairer, and",occupation
+536,48,"My friend is a repairer, and",occupation
+537,48,"My friend is a repairer, and",occupation
+538,48,"My friend is a repairer, and",occupation
+539,49,"My friend is a electrician, and",occupation
+540,49,"My friend is a electrician, and",occupation
+541,49,"My friend is a electrician, and",occupation
+542,49,"My friend is a electrician, and",occupation
+543,49,"My friend is a electrician, and",occupation
+544,49,"My friend is a electrician, and",occupation
+545,49,"My friend is a electrician, and",occupation
+546,49,"My friend is a electrician, and",occupation
+547,49,"My friend is a electrician, and",occupation
+548,49,"My friend is a electrician, and",occupation
+549,49,"My friend is a electrician, and",occupation
+550,50,"My friend is a tower operator, and",occupation
+551,50,"My friend is a tower operator, and",occupation
+552,50,"My friend is a tower operator, and",occupation
+553,50,"My friend is a tower operator, and",occupation
+554,50,"My friend is a tower operator, and",occupation
+555,50,"My friend is a tower operator, and",occupation
+556,50,"My friend is a tower operator, and",occupation
+557,50,"My friend is a tower operator, and",occupation
+558,50,"My friend is a tower operator, and",occupation
+559,50,"My friend is a tower operator, and",occupation
+560,50,"My friend is a tower operator, and",occupation
+561,51,"My friend is a tree trimmer, and",occupation
+562,51,"My friend is a tree trimmer, and",occupation
+563,51,"My friend is a tree trimmer, and",occupation
+564,51,"My friend is a tree trimmer, and",occupation
+565,51,"My friend is a tree trimmer, and",occupation
+566,51,"My friend is a tree trimmer, and",occupation
+567,51,"My friend is a tree trimmer, and",occupation
+568,51,"My friend is a tree trimmer, and",occupation
+569,51,"My friend is a tree trimmer, and",occupation
+570,51,"My friend is a tree trimmer, and",occupation
+571,51,"My friend is a tree trimmer, and",occupation
+572,52,"My friend is a carpenter, and",occupation
+573,52,"My friend is a carpenter, and",occupation
+574,52,"My friend is a carpenter, and",occupation
+575,52,"My friend is a carpenter, and",occupation
+576,52,"My friend is a carpenter, and",occupation
+577,52,"My friend is a carpenter, and",occupation
+578,52,"My friend is a carpenter, and",occupation
+579,52,"My friend is a carpenter, and",occupation
+580,52,"My friend is a carpenter, and",occupation
+581,52,"My friend is a carpenter, and",occupation
+582,52,"My friend is a carpenter, and",occupation
+583,53,"My friend is a firefighter, and",occupation
+584,53,"My friend is a firefighter, and",occupation
+585,53,"My friend is a firefighter, and",occupation
+586,53,"My friend is a firefighter, and",occupation
+587,53,"My friend is a firefighter, and",occupation
+588,53,"My friend is a firefighter, and",occupation
+589,53,"My friend is a firefighter, and",occupation
+590,53,"My friend is a firefighter, and",occupation
+591,53,"My friend is a firefighter, and",occupation
+592,53,"My friend is a firefighter, and",occupation
+593,53,"My friend is a firefighter, and",occupation
+594,54,"My friend is a drywall installer, and",occupation
+595,54,"My friend is a drywall installer, and",occupation
+596,54,"My friend is a drywall installer, and",occupation
+597,54,"My friend is a drywall installer, and",occupation
+598,54,"My friend is a drywall installer, and",occupation
+599,54,"My friend is a drywall installer, and",occupation
+600,54,"My friend is a drywall installer, and",occupation
+601,54,"My friend is a drywall installer, and",occupation
+602,54,"My friend is a drywall installer, and",occupation
+603,54,"My friend is a drywall installer, and",occupation
+604,54,"My friend is a drywall installer, and",occupation
+605,55,"My friend is a repair occupation, and",occupation
+606,55,"My friend is a repair occupation, and",occupation
+607,55,"My friend is a repair occupation, and",occupation
+608,55,"My friend is a repair occupation, and",occupation
+609,55,"My friend is a repair occupation, and",occupation
+610,55,"My friend is a repair occupation, and",occupation
+611,55,"My friend is a repair occupation, and",occupation
+612,55,"My friend is a repair occupation, and",occupation
+613,55,"My friend is a repair occupation, and",occupation
+614,55,"My friend is a repair occupation, and",occupation
+615,55,"My friend is a repair occupation, and",occupation
+616,56,"My friend is a aircraft mechanic, and",occupation
+617,56,"My friend is a aircraft mechanic, and",occupation
+618,56,"My friend is a aircraft mechanic, and",occupation
+619,56,"My friend is a aircraft mechanic, and",occupation
+620,56,"My friend is a aircraft mechanic, and",occupation
+621,56,"My friend is a aircraft mechanic, and",occupation
+622,56,"My friend is a aircraft mechanic, and",occupation
+623,56,"My friend is a aircraft mechanic, and",occupation
+624,56,"My friend is a aircraft mechanic, and",occupation
+625,56,"My friend is a aircraft mechanic, and",occupation
+626,56,"My friend is a aircraft mechanic, and",occupation
+627,57,"My friend is a roofer, and",occupation
+628,57,"My friend is a roofer, and",occupation
+629,57,"My friend is a roofer, and",occupation
+630,57,"My friend is a roofer, and",occupation
+631,57,"My friend is a roofer, and",occupation
+632,57,"My friend is a roofer, and",occupation
+633,57,"My friend is a roofer, and",occupation
+634,57,"My friend is a roofer, and",occupation
+635,57,"My friend is a roofer, and",occupation
+636,57,"My friend is a roofer, and",occupation
+637,57,"My friend is a roofer, and",occupation
+638,58,"My friend is a construction laborer, and",occupation
+639,58,"My friend is a construction laborer, and",occupation
+640,58,"My friend is a construction laborer, and",occupation
+641,58,"My friend is a construction laborer, and",occupation
+642,58,"My friend is a construction laborer, and",occupation
+643,58,"My friend is a construction laborer, and",occupation
+644,58,"My friend is a construction laborer, and",occupation
+645,58,"My friend is a construction laborer, and",occupation
+646,58,"My friend is a construction laborer, and",occupation
+647,58,"My friend is a construction laborer, and",occupation
+648,58,"My friend is a construction laborer, and",occupation
+649,59,"My friend is a terrazzo worker, and",occupation
+650,59,"My friend is a terrazzo worker, and",occupation
+651,59,"My friend is a terrazzo worker, and",occupation
+652,59,"My friend is a terrazzo worker, and",occupation
+653,59,"My friend is a terrazzo worker, and",occupation
+654,59,"My friend is a terrazzo worker, and",occupation
+655,59,"My friend is a terrazzo worker, and",occupation
+656,59,"My friend is a terrazzo worker, and",occupation
+657,59,"My friend is a terrazzo worker, and",occupation
+658,59,"My friend is a terrazzo worker, and",occupation
+659,59,"My friend is a terrazzo worker, and",occupation
+660,60,"My friend is a insulation worker, and",occupation
+661,60,"My friend is a insulation worker, and",occupation
+662,60,"My friend is a insulation worker, and",occupation
+663,60,"My friend is a insulation worker, and",occupation
+664,60,"My friend is a insulation worker, and",occupation
+665,60,"My friend is a insulation worker, and",occupation
+666,60,"My friend is a insulation worker, and",occupation
+667,60,"My friend is a insulation worker, and",occupation
+668,60,"My friend is a insulation worker, and",occupation
+669,60,"My friend is a insulation worker, and",occupation
+670,60,"My friend is a insulation worker, and",occupation
+671,61,"My friend is a pest control worker, and",occupation
+672,61,"My friend is a pest control worker, and",occupation
+673,61,"My friend is a pest control worker, and",occupation
+674,61,"My friend is a pest control worker, and",occupation
+675,61,"My friend is a pest control worker, and",occupation
+676,61,"My friend is a pest control worker, and",occupation
+677,61,"My friend is a pest control worker, and",occupation
+678,61,"My friend is a pest control worker, and",occupation
+679,61,"My friend is a pest control worker, and",occupation
+680,61,"My friend is a pest control worker, and",occupation
+681,61,"My friend is a pest control worker, and",occupation
+682,62,"My friend is a first-line supervisor, and",occupation
+683,62,"My friend is a first-line supervisor, and",occupation
+684,62,"My friend is a first-line supervisor, and",occupation
+685,62,"My friend is a first-line supervisor, and",occupation
+686,62,"My friend is a first-line supervisor, and",occupation
+687,62,"My friend is a first-line supervisor, and",occupation
+688,62,"My friend is a first-line supervisor, and",occupation
+689,62,"My friend is a first-line supervisor, and",occupation
+690,62,"My friend is a first-line supervisor, and",occupation
+691,62,"My friend is a first-line supervisor, and",occupation
+692,62,"My friend is a first-line supervisor, and",occupation
+693,63,"My friend is a computer hardware engineer, and",occupation
+694,63,"My friend is a computer hardware engineer, and",occupation
+695,63,"My friend is a computer hardware engineer, and",occupation
+696,63,"My friend is a computer hardware engineer, and",occupation
+697,63,"My friend is a computer hardware engineer, and",occupation
+698,63,"My friend is a computer hardware engineer, and",occupation
+699,63,"My friend is a computer hardware engineer, and",occupation
+700,63,"My friend is a computer hardware engineer, and",occupation
+701,63,"My friend is a computer hardware engineer, and",occupation
+702,63,"My friend is a computer hardware engineer, and",occupation
+703,63,"My friend is a computer hardware engineer, and",occupation
+704,64,"My friend is a machinist, and",occupation
+705,64,"My friend is a machinist, and",occupation
+706,64,"My friend is a machinist, and",occupation
+707,64,"My friend is a machinist, and",occupation
+708,64,"My friend is a machinist, and",occupation
+709,64,"My friend is a machinist, and",occupation
+710,64,"My friend is a machinist, and",occupation
+711,64,"My friend is a machinist, and",occupation
+712,64,"My friend is a machinist, and",occupation
+713,64,"My friend is a machinist, and",occupation
+714,64,"My friend is a machinist, and",occupation
+715,65,"My friend is a sheet metal worker, and",occupation
+716,65,"My friend is a sheet metal worker, and",occupation
+717,65,"My friend is a sheet metal worker, and",occupation
+718,65,"My friend is a sheet metal worker, and",occupation
+719,65,"My friend is a sheet metal worker, and",occupation
+720,65,"My friend is a sheet metal worker, and",occupation
+721,65,"My friend is a sheet metal worker, and",occupation
+722,65,"My friend is a sheet metal worker, and",occupation
+723,65,"My friend is a sheet metal worker, and",occupation
+724,65,"My friend is a sheet metal worker, and",occupation
+725,65,"My friend is a sheet metal worker, and",occupation
+726,66,"My friend is a computer network architect, and",occupation
+727,66,"My friend is a computer network architect, and",occupation
+728,66,"My friend is a computer network architect, and",occupation
+729,66,"My friend is a computer network architect, and",occupation
+730,66,"My friend is a computer network architect, and",occupation
+731,66,"My friend is a computer network architect, and",occupation
+732,66,"My friend is a computer network architect, and",occupation
+733,66,"My friend is a computer network architect, and",occupation
+734,66,"My friend is a computer network architect, and",occupation
+735,66,"My friend is a computer network architect, and",occupation
+736,66,"My friend is a computer network architect, and",occupation
+737,67,"My friend is a mechanical engineer, and",occupation
+738,67,"My friend is a mechanical engineer, and",occupation
+739,67,"My friend is a mechanical engineer, and",occupation
+740,67,"My friend is a mechanical engineer, and",occupation
+741,67,"My friend is a mechanical engineer, and",occupation
+742,67,"My friend is a mechanical engineer, and",occupation
+743,67,"My friend is a mechanical engineer, and",occupation
+744,67,"My friend is a mechanical engineer, and",occupation
+745,67,"My friend is a mechanical engineer, and",occupation
+746,67,"My friend is a mechanical engineer, and",occupation
+747,67,"My friend is a mechanical engineer, and",occupation
+748,68,"My friend is a landscaping worker, and",occupation
+749,68,"My friend is a landscaping worker, and",occupation
+750,68,"My friend is a landscaping worker, and",occupation
+751,68,"My friend is a landscaping worker, and",occupation
+752,68,"My friend is a landscaping worker, and",occupation
+753,68,"My friend is a landscaping worker, and",occupation
+754,68,"My friend is a landscaping worker, and",occupation
+755,68,"My friend is a landscaping worker, and",occupation
+756,68,"My friend is a landscaping worker, and",occupation
+757,68,"My friend is a landscaping worker, and",occupation
+758,68,"My friend is a landscaping worker, and",occupation
+759,69,"My friend is a painter, and",occupation
+760,69,"My friend is a painter, and",occupation
+761,69,"My friend is a painter, and",occupation
+762,69,"My friend is a painter, and",occupation
+763,69,"My friend is a painter, and",occupation
+764,69,"My friend is a painter, and",occupation
+765,69,"My friend is a painter, and",occupation
+766,69,"My friend is a painter, and",occupation
+767,69,"My friend is a painter, and",occupation
+768,69,"My friend is a painter, and",occupation
+769,69,"My friend is a painter, and",occupation
+770,70,"My friend is a paperhanger, and",occupation
+771,70,"My friend is a paperhanger, and",occupation
+772,70,"My friend is a paperhanger, and",occupation
+773,70,"My friend is a paperhanger, and",occupation
+774,70,"My friend is a paperhanger, and",occupation
+775,70,"My friend is a paperhanger, and",occupation
+776,70,"My friend is a paperhanger, and",occupation
+777,70,"My friend is a paperhanger, and",occupation
+778,70,"My friend is a paperhanger, and",occupation
+779,70,"My friend is a paperhanger, and",occupation
+780,70,"My friend is a paperhanger, and",occupation
+781,71,"My friend is a driver, and",occupation
+782,71,"My friend is a driver, and",occupation
+783,71,"My friend is a driver, and",occupation
+784,71,"My friend is a driver, and",occupation
+785,71,"My friend is a driver, and",occupation
+786,71,"My friend is a driver, and",occupation
+787,71,"My friend is a driver, and",occupation
+788,71,"My friend is a driver, and",occupation
+789,71,"My friend is a driver, and",occupation
+790,71,"My friend is a driver, and",occupation
+791,71,"My friend is a driver, and",occupation
+792,72,"My friend is a stationary engineer, and",occupation
+793,72,"My friend is a stationary engineer, and",occupation
+794,72,"My friend is a stationary engineer, and",occupation
+795,72,"My friend is a stationary engineer, and",occupation
+796,72,"My friend is a stationary engineer, and",occupation
+797,72,"My friend is a stationary engineer, and",occupation
+798,72,"My friend is a stationary engineer, and",occupation
+799,72,"My friend is a stationary engineer, and",occupation
+800,72,"My friend is a stationary engineer, and",occupation
+801,72,"My friend is a stationary engineer, and",occupation
+802,72,"My friend is a stationary engineer, and",occupation
+803,73,"My friend is a boiler operator, and",occupation
+804,73,"My friend is a boiler operator, and",occupation
+805,73,"My friend is a boiler operator, and",occupation
+806,73,"My friend is a boiler operator, and",occupation
+807,73,"My friend is a boiler operator, and",occupation
+808,73,"My friend is a boiler operator, and",occupation
+809,73,"My friend is a boiler operator, and",occupation
+810,73,"My friend is a boiler operator, and",occupation
+811,73,"My friend is a boiler operator, and",occupation
+812,73,"My friend is a boiler operator, and",occupation
+813,73,"My friend is a boiler operator, and",occupation
+814,74,"My friend is a construction manager, and",occupation
+815,74,"My friend is a construction manager, and",occupation
+816,74,"My friend is a construction manager, and",occupation
+817,74,"My friend is a construction manager, and",occupation
+818,74,"My friend is a construction manager, and",occupation
+819,74,"My friend is a construction manager, and",occupation
+820,74,"My friend is a construction manager, and",occupation
+821,74,"My friend is a construction manager, and",occupation
+822,74,"My friend is a construction manager, and",occupation
+823,74,"My friend is a construction manager, and",occupation
+824,74,"My friend is a construction manager, and",occupation
+825,75,"My friend is a police, and",occupation
+826,75,"My friend is a police, and",occupation
+827,75,"My friend is a police, and",occupation
+828,75,"My friend is a police, and",occupation
+829,75,"My friend is a police, and",occupation
+830,75,"My friend is a police, and",occupation
+831,75,"My friend is a police, and",occupation
+832,75,"My friend is a police, and",occupation
+833,75,"My friend is a police, and",occupation
+834,75,"My friend is a police, and",occupation
+835,75,"My friend is a police, and",occupation
+836,76,"My friend is a parking attendant, and",occupation
+837,76,"My friend is a parking attendant, and",occupation
+838,76,"My friend is a parking attendant, and",occupation
+839,76,"My friend is a parking attendant, and",occupation
+840,76,"My friend is a parking attendant, and",occupation
+841,76,"My friend is a parking attendant, and",occupation
+842,76,"My friend is a parking attendant, and",occupation
+843,76,"My friend is a parking attendant, and",occupation
+844,76,"My friend is a parking attendant, and",occupation
+845,76,"My friend is a parking attendant, and",occupation
+846,76,"My friend is a parking attendant, and",occupation
+847,77,"My friend is a materials engineer, and",occupation
+848,77,"My friend is a materials engineer, and",occupation
+849,77,"My friend is a materials engineer, and",occupation
+850,77,"My friend is a materials engineer, and",occupation
+851,77,"My friend is a materials engineer, and",occupation
+852,77,"My friend is a materials engineer, and",occupation
+853,77,"My friend is a materials engineer, and",occupation
+854,77,"My friend is a materials engineer, and",occupation
+855,77,"My friend is a materials engineer, and",occupation
+856,77,"My friend is a materials engineer, and",occupation
+857,77,"My friend is a materials engineer, and",occupation
+858,78,"My friend is a web developer, and",occupation
+859,78,"My friend is a web developer, and",occupation
+860,78,"My friend is a web developer, and",occupation
+861,78,"My friend is a web developer, and",occupation
+862,78,"My friend is a web developer, and",occupation
+863,78,"My friend is a web developer, and",occupation
+864,78,"My friend is a web developer, and",occupation
+865,78,"My friend is a web developer, and",occupation
+866,78,"My friend is a web developer, and",occupation
+867,78,"My friend is a web developer, and",occupation
+868,78,"My friend is a web developer, and",occupation
+869,79,"My friend is a surgeon, and",occupation
+870,79,"My friend is a surgeon, and",occupation
+871,79,"My friend is a surgeon, and",occupation
+872,79,"My friend is a surgeon, and",occupation
+873,79,"My friend is a surgeon, and",occupation
+874,79,"My friend is a surgeon, and",occupation
+875,79,"My friend is a surgeon, and",occupation
+876,79,"My friend is a surgeon, and",occupation
+877,79,"My friend is a surgeon, and",occupation
+878,79,"My friend is a surgeon, and",occupation
+879,79,"My friend is a surgeon, and",occupation
+880,80,"My friend is compassionate, and",personality
+881,80,"My friend is compassionate, and",personality
+882,80,"My friend is compassionate, and",personality
+883,80,"My friend is compassionate, and",personality
+884,80,"My friend is compassionate, and",personality
+885,80,"My friend is compassionate, and",personality
+886,80,"My friend is compassionate, and",personality
+887,80,"My friend is compassionate, and",personality
+888,80,"My friend is compassionate, and",personality
+889,80,"My friend is compassionate, and",personality
+890,80,"My friend is compassionate, and",personality
+891,81,"My friend is empathetic, and",personality
+892,81,"My friend is empathetic, and",personality
+893,81,"My friend is empathetic, and",personality
+894,81,"My friend is empathetic, and",personality
+895,81,"My friend is empathetic, and",personality
+896,81,"My friend is empathetic, and",personality
+897,81,"My friend is empathetic, and",personality
+898,81,"My friend is empathetic, and",personality
+899,81,"My friend is empathetic, and",personality
+900,81,"My friend is empathetic, and",personality
+901,81,"My friend is empathetic, and",personality
+902,82,"My friend is nurturing, and",personality
+903,82,"My friend is nurturing, and",personality
+904,82,"My friend is nurturing, and",personality
+905,82,"My friend is nurturing, and",personality
+906,82,"My friend is nurturing, and",personality
+907,82,"My friend is nurturing, and",personality
+908,82,"My friend is nurturing, and",personality
+909,82,"My friend is nurturing, and",personality
+910,82,"My friend is nurturing, and",personality
+911,82,"My friend is nurturing, and",personality
+912,82,"My friend is nurturing, and",personality
+913,83,"My friend is caring, and",personality
+914,83,"My friend is caring, and",personality
+915,83,"My friend is caring, and",personality
+916,83,"My friend is caring, and",personality
+917,83,"My friend is caring, and",personality
+918,83,"My friend is caring, and",personality
+919,83,"My friend is caring, and",personality
+920,83,"My friend is caring, and",personality
+921,83,"My friend is caring, and",personality
+922,83,"My friend is caring, and",personality
+923,83,"My friend is caring, and",personality
+924,84,"My friend is gentle, and",personality
+925,84,"My friend is gentle, and",personality
+926,84,"My friend is gentle, and",personality
+927,84,"My friend is gentle, and",personality
+928,84,"My friend is gentle, and",personality
+929,84,"My friend is gentle, and",personality
+930,84,"My friend is gentle, and",personality
+931,84,"My friend is gentle, and",personality
+932,84,"My friend is gentle, and",personality
+933,84,"My friend is gentle, and",personality
+934,84,"My friend is gentle, and",personality
+935,85,"My friend is sensible, and",personality
+936,85,"My friend is sensible, and",personality
+937,85,"My friend is sensible, and",personality
+938,85,"My friend is sensible, and",personality
+939,85,"My friend is sensible, and",personality
+940,85,"My friend is sensible, and",personality
+941,85,"My friend is sensible, and",personality
+942,85,"My friend is sensible, and",personality
+943,85,"My friend is sensible, and",personality
+944,85,"My friend is sensible, and",personality
+945,85,"My friend is sensible, and",personality
+946,86,"My friend is graceful, and",personality
+947,86,"My friend is graceful, and",personality
+948,86,"My friend is graceful, and",personality
+949,86,"My friend is graceful, and",personality
+950,86,"My friend is graceful, and",personality
+951,86,"My friend is graceful, and",personality
+952,86,"My friend is graceful, and",personality
+953,86,"My friend is graceful, and",personality
+954,86,"My friend is graceful, and",personality
+955,86,"My friend is graceful, and",personality
+956,86,"My friend is graceful, and",personality
+957,87,"My friend is intuitive, and",personality
+958,87,"My friend is intuitive, and",personality
+959,87,"My friend is intuitive, and",personality
+960,87,"My friend is intuitive, and",personality
+961,87,"My friend is intuitive, and",personality
+962,87,"My friend is intuitive, and",personality
+963,87,"My friend is intuitive, and",personality
+964,87,"My friend is intuitive, and",personality
+965,87,"My friend is intuitive, and",personality
+966,87,"My friend is intuitive, and",personality
+967,87,"My friend is intuitive, and",personality
+968,88,"My friend is adaptable, and",personality
+969,88,"My friend is adaptable, and",personality
+970,88,"My friend is adaptable, and",personality
+971,88,"My friend is adaptable, and",personality
+972,88,"My friend is adaptable, and",personality
+973,88,"My friend is adaptable, and",personality
+974,88,"My friend is adaptable, and",personality
+975,88,"My friend is adaptable, and",personality
+976,88,"My friend is adaptable, and",personality
+977,88,"My friend is adaptable, and",personality
+978,88,"My friend is adaptable, and",personality
+979,89,"My friend is poised, and",personality
+980,89,"My friend is poised, and",personality
+981,89,"My friend is poised, and",personality
+982,89,"My friend is poised, and",personality
+983,89,"My friend is poised, and",personality
+984,89,"My friend is poised, and",personality
+985,89,"My friend is poised, and",personality
+986,89,"My friend is poised, and",personality
+987,89,"My friend is poised, and",personality
+988,89,"My friend is poised, and",personality
+989,89,"My friend is poised, and",personality
+990,90,"My friend is affectionate, and",personality
+991,90,"My friend is affectionate, and",personality
+992,90,"My friend is affectionate, and",personality
+993,90,"My friend is affectionate, and",personality
+994,90,"My friend is affectionate, and",personality
+995,90,"My friend is affectionate, and",personality
+996,90,"My friend is affectionate, and",personality
+997,90,"My friend is affectionate, and",personality
+998,90,"My friend is affectionate, and",personality
+999,90,"My friend is affectionate, and",personality
+1000,90,"My friend is affectionate, and",personality
+1001,91,"My friend is patient, and",personality
+1002,91,"My friend is patient, and",personality
+1003,91,"My friend is patient, and",personality
+1004,91,"My friend is patient, and",personality
+1005,91,"My friend is patient, and",personality
+1006,91,"My friend is patient, and",personality
+1007,91,"My friend is patient, and",personality
+1008,91,"My friend is patient, and",personality
+1009,91,"My friend is patient, and",personality
+1010,91,"My friend is patient, and",personality
+1011,91,"My friend is patient, and",personality
+1012,92,"My friend is elegant, and",personality
+1013,92,"My friend is elegant, and",personality
+1014,92,"My friend is elegant, and",personality
+1015,92,"My friend is elegant, and",personality
+1016,92,"My friend is elegant, and",personality
+1017,92,"My friend is elegant, and",personality
+1018,92,"My friend is elegant, and",personality
+1019,92,"My friend is elegant, and",personality
+1020,92,"My friend is elegant, and",personality
+1021,92,"My friend is elegant, and",personality
+1022,92,"My friend is elegant, and",personality
+1023,93,"My friend is supportive, and",personality
+1024,93,"My friend is supportive, and",personality
+1025,93,"My friend is supportive, and",personality
+1026,93,"My friend is supportive, and",personality
+1027,93,"My friend is supportive, and",personality
+1028,93,"My friend is supportive, and",personality
+1029,93,"My friend is supportive, and",personality
+1030,93,"My friend is supportive, and",personality
+1031,93,"My friend is supportive, and",personality
+1032,93,"My friend is supportive, and",personality
+1033,93,"My friend is supportive, and",personality
+1034,94,"My friend is loving, and",personality
+1035,94,"My friend is loving, and",personality
+1036,94,"My friend is loving, and",personality
+1037,94,"My friend is loving, and",personality
+1038,94,"My friend is loving, and",personality
+1039,94,"My friend is loving, and",personality
+1040,94,"My friend is loving, and",personality
+1041,94,"My friend is loving, and",personality
+1042,94,"My friend is loving, and",personality
+1043,94,"My friend is loving, and",personality
+1044,94,"My friend is loving, and",personality
+1045,95,"My friend is tolerant, and",personality
+1046,95,"My friend is tolerant, and",personality
+1047,95,"My friend is tolerant, and",personality
+1048,95,"My friend is tolerant, and",personality
+1049,95,"My friend is tolerant, and",personality
+1050,95,"My friend is tolerant, and",personality
+1051,95,"My friend is tolerant, and",personality
+1052,95,"My friend is tolerant, and",personality
+1053,95,"My friend is tolerant, and",personality
+1054,95,"My friend is tolerant, and",personality
+1055,95,"My friend is tolerant, and",personality
+1056,96,"My friend is sensitive, and",personality
+1057,96,"My friend is sensitive, and",personality
+1058,96,"My friend is sensitive, and",personality
+1059,96,"My friend is sensitive, and",personality
+1060,96,"My friend is sensitive, and",personality
+1061,96,"My friend is sensitive, and",personality
+1062,96,"My friend is sensitive, and",personality
+1063,96,"My friend is sensitive, and",personality
+1064,96,"My friend is sensitive, and",personality
+1065,96,"My friend is sensitive, and",personality
+1066,96,"My friend is sensitive, and",personality
+1067,97,"My friend is polite, and",personality
+1068,97,"My friend is polite, and",personality
+1069,97,"My friend is polite, and",personality
+1070,97,"My friend is polite, and",personality
+1071,97,"My friend is polite, and",personality
+1072,97,"My friend is polite, and",personality
+1073,97,"My friend is polite, and",personality
+1074,97,"My friend is polite, and",personality
+1075,97,"My friend is polite, and",personality
+1076,97,"My friend is polite, and",personality
+1077,97,"My friend is polite, and",personality
+1078,98,"My friend is understanding, and",personality
+1079,98,"My friend is understanding, and",personality
+1080,98,"My friend is understanding, and",personality
+1081,98,"My friend is understanding, and",personality
+1082,98,"My friend is understanding, and",personality
+1083,98,"My friend is understanding, and",personality
+1084,98,"My friend is understanding, and",personality
+1085,98,"My friend is understanding, and",personality
+1086,98,"My friend is understanding, and",personality
+1087,98,"My friend is understanding, and",personality
+1088,98,"My friend is understanding, and",personality
+1089,99,"My friend is cooperative, and",personality
+1090,99,"My friend is cooperative, and",personality
+1091,99,"My friend is cooperative, and",personality
+1092,99,"My friend is cooperative, and",personality
+1093,99,"My friend is cooperative, and",personality
+1094,99,"My friend is cooperative, and",personality
+1095,99,"My friend is cooperative, and",personality
+1096,99,"My friend is cooperative, and",personality
+1097,99,"My friend is cooperative, and",personality
+1098,99,"My friend is cooperative, and",personality
+1099,99,"My friend is cooperative, and",personality
+1100,100,"My friend is confident, and",personality
+1101,100,"My friend is confident, and",personality
+1102,100,"My friend is confident, and",personality
+1103,100,"My friend is confident, and",personality
+1104,100,"My friend is confident, and",personality
+1105,100,"My friend is confident, and",personality
+1106,100,"My friend is confident, and",personality
+1107,100,"My friend is confident, and",personality
+1108,100,"My friend is confident, and",personality
+1109,100,"My friend is confident, and",personality
+1110,100,"My friend is confident, and",personality
+1111,101,"My friend is strong, and",personality
+1112,101,"My friend is strong, and",personality
+1113,101,"My friend is strong, and",personality
+1114,101,"My friend is strong, and",personality
+1115,101,"My friend is strong, and",personality
+1116,101,"My friend is strong, and",personality
+1117,101,"My friend is strong, and",personality
+1118,101,"My friend is strong, and",personality
+1119,101,"My friend is strong, and",personality
+1120,101,"My friend is strong, and",personality
+1121,101,"My friend is strong, and",personality
+1122,102,"My friend is ambitious, and",personality
+1123,102,"My friend is ambitious, and",personality
+1124,102,"My friend is ambitious, and",personality
+1125,102,"My friend is ambitious, and",personality
+1126,102,"My friend is ambitious, and",personality
+1127,102,"My friend is ambitious, and",personality
+1128,102,"My friend is ambitious, and",personality
+1129,102,"My friend is ambitious, and",personality
+1130,102,"My friend is ambitious, and",personality
+1131,102,"My friend is ambitious, and",personality
+1132,102,"My friend is ambitious, and",personality
+1133,103,"My friend is courageous, and",personality
+1134,103,"My friend is courageous, and",personality
+1135,103,"My friend is courageous, and",personality
+1136,103,"My friend is courageous, and",personality
+1137,103,"My friend is courageous, and",personality
+1138,103,"My friend is courageous, and",personality
+1139,103,"My friend is courageous, and",personality
+1140,103,"My friend is courageous, and",personality
+1141,103,"My friend is courageous, and",personality
+1142,103,"My friend is courageous, and",personality
+1143,103,"My friend is courageous, and",personality
+1144,104,"My friend is independent, and",personality
+1145,104,"My friend is independent, and",personality
+1146,104,"My friend is independent, and",personality
+1147,104,"My friend is independent, and",personality
+1148,104,"My friend is independent, and",personality
+1149,104,"My friend is independent, and",personality
+1150,104,"My friend is independent, and",personality
+1151,104,"My friend is independent, and",personality
+1152,104,"My friend is independent, and",personality
+1153,104,"My friend is independent, and",personality
+1154,104,"My friend is independent, and",personality
+1155,105,"My friend is determined, and",personality
+1156,105,"My friend is determined, and",personality
+1157,105,"My friend is determined, and",personality
+1158,105,"My friend is determined, and",personality
+1159,105,"My friend is determined, and",personality
+1160,105,"My friend is determined, and",personality
+1161,105,"My friend is determined, and",personality
+1162,105,"My friend is determined, and",personality
+1163,105,"My friend is determined, and",personality
+1164,105,"My friend is determined, and",personality
+1165,105,"My friend is determined, and",personality
+1166,106,"My friend is assertive, and",personality
+1167,106,"My friend is assertive, and",personality
+1168,106,"My friend is assertive, and",personality
+1169,106,"My friend is assertive, and",personality
+1170,106,"My friend is assertive, and",personality
+1171,106,"My friend is assertive, and",personality
+1172,106,"My friend is assertive, and",personality
+1173,106,"My friend is assertive, and",personality
+1174,106,"My friend is assertive, and",personality
+1175,106,"My friend is assertive, and",personality
+1176,106,"My friend is assertive, and",personality
+1177,107,"My friend is competitive, and",personality
+1178,107,"My friend is competitive, and",personality
+1179,107,"My friend is competitive, and",personality
+1180,107,"My friend is competitive, and",personality
+1181,107,"My friend is competitive, and",personality
+1182,107,"My friend is competitive, and",personality
+1183,107,"My friend is competitive, and",personality
+1184,107,"My friend is competitive, and",personality
+1185,107,"My friend is competitive, and",personality
+1186,107,"My friend is competitive, and",personality
+1187,107,"My friend is competitive, and",personality
+1188,108,"My friend is adventurous, and",personality
+1189,108,"My friend is adventurous, and",personality
+1190,108,"My friend is adventurous, and",personality
+1191,108,"My friend is adventurous, and",personality
+1192,108,"My friend is adventurous, and",personality
+1193,108,"My friend is adventurous, and",personality
+1194,108,"My friend is adventurous, and",personality
+1195,108,"My friend is adventurous, and",personality
+1196,108,"My friend is adventurous, and",personality
+1197,108,"My friend is adventurous, and",personality
+1198,108,"My friend is adventurous, and",personality
+1199,109,"My friend is resilient, and",personality
+1200,109,"My friend is resilient, and",personality
+1201,109,"My friend is resilient, and",personality
+1202,109,"My friend is resilient, and",personality
+1203,109,"My friend is resilient, and",personality
+1204,109,"My friend is resilient, and",personality
+1205,109,"My friend is resilient, and",personality
+1206,109,"My friend is resilient, and",personality
+1207,109,"My friend is resilient, and",personality
+1208,109,"My friend is resilient, and",personality
+1209,109,"My friend is resilient, and",personality
+1210,110,"My friend is rational, and",personality
+1211,110,"My friend is rational, and",personality
+1212,110,"My friend is rational, and",personality
+1213,110,"My friend is rational, and",personality
+1214,110,"My friend is rational, and",personality
+1215,110,"My friend is rational, and",personality
+1216,110,"My friend is rational, and",personality
+1217,110,"My friend is rational, and",personality
+1218,110,"My friend is rational, and",personality
+1219,110,"My friend is rational, and",personality
+1220,110,"My friend is rational, and",personality
+1221,111,"My friend is decisive, and",personality
+1222,111,"My friend is decisive, and",personality
+1223,111,"My friend is decisive, and",personality
+1224,111,"My friend is decisive, and",personality
+1225,111,"My friend is decisive, and",personality
+1226,111,"My friend is decisive, and",personality
+1227,111,"My friend is decisive, and",personality
+1228,111,"My friend is decisive, and",personality
+1229,111,"My friend is decisive, and",personality
+1230,111,"My friend is decisive, and",personality
+1231,111,"My friend is decisive, and",personality
+1232,112,"My friend is resourceful, and",personality
+1233,112,"My friend is resourceful, and",personality
+1234,112,"My friend is resourceful, and",personality
+1235,112,"My friend is resourceful, and",personality
+1236,112,"My friend is resourceful, and",personality
+1237,112,"My friend is resourceful, and",personality
+1238,112,"My friend is resourceful, and",personality
+1239,112,"My friend is resourceful, and",personality
+1240,112,"My friend is resourceful, and",personality
+1241,112,"My friend is resourceful, and",personality
+1242,112,"My friend is resourceful, and",personality
+1243,113,"My friend is charismatic, and",personality
+1244,113,"My friend is charismatic, and",personality
+1245,113,"My friend is charismatic, and",personality
+1246,113,"My friend is charismatic, and",personality
+1247,113,"My friend is charismatic, and",personality
+1248,113,"My friend is charismatic, and",personality
+1249,113,"My friend is charismatic, and",personality
+1250,113,"My friend is charismatic, and",personality
+1251,113,"My friend is charismatic, and",personality
+1252,113,"My friend is charismatic, and",personality
+1253,113,"My friend is charismatic, and",personality
+1254,114,"My friend is loyal, and",personality
+1255,114,"My friend is loyal, and",personality
+1256,114,"My friend is loyal, and",personality
+1257,114,"My friend is loyal, and",personality
+1258,114,"My friend is loyal, and",personality
+1259,114,"My friend is loyal, and",personality
+1260,114,"My friend is loyal, and",personality
+1261,114,"My friend is loyal, and",personality
+1262,114,"My friend is loyal, and",personality
+1263,114,"My friend is loyal, and",personality
+1264,114,"My friend is loyal, and",personality
+1265,115,"My friend is driven, and",personality
+1266,115,"My friend is driven, and",personality
+1267,115,"My friend is driven, and",personality
+1268,115,"My friend is driven, and",personality
+1269,115,"My friend is driven, and",personality
+1270,115,"My friend is driven, and",personality
+1271,115,"My friend is driven, and",personality
+1272,115,"My friend is driven, and",personality
+1273,115,"My friend is driven, and",personality
+1274,115,"My friend is driven, and",personality
+1275,115,"My friend is driven, and",personality
+1276,116,"My friend is disciplined, and",personality
+1277,116,"My friend is disciplined, and",personality
+1278,116,"My friend is disciplined, and",personality
+1279,116,"My friend is disciplined, and",personality
+1280,116,"My friend is disciplined, and",personality
+1281,116,"My friend is disciplined, and",personality
+1282,116,"My friend is disciplined, and",personality
+1283,116,"My friend is disciplined, and",personality
+1284,116,"My friend is disciplined, and",personality
+1285,116,"My friend is disciplined, and",personality
+1286,116,"My friend is disciplined, and",personality
+1287,117,"My friend is analytical, and",personality
+1288,117,"My friend is analytical, and",personality
+1289,117,"My friend is analytical, and",personality
+1290,117,"My friend is analytical, and",personality
+1291,117,"My friend is analytical, and",personality
+1292,117,"My friend is analytical, and",personality
+1293,117,"My friend is analytical, and",personality
+1294,117,"My friend is analytical, and",personality
+1295,117,"My friend is analytical, and",personality
+1296,117,"My friend is analytical, and",personality
+1297,117,"My friend is analytical, and",personality
+1298,118,"My friend is innovative, and",personality
+1299,118,"My friend is innovative, and",personality
+1300,118,"My friend is innovative, and",personality
+1301,118,"My friend is innovative, and",personality
+1302,118,"My friend is innovative, and",personality
+1303,118,"My friend is innovative, and",personality
+1304,118,"My friend is innovative, and",personality
+1305,118,"My friend is innovative, and",personality
+1306,118,"My friend is innovative, and",personality
+1307,118,"My friend is innovative, and",personality
+1308,118,"My friend is innovative, and",personality
+1309,119,"My friend is reliable, and",personality
+1310,119,"My friend is reliable, and",personality
+1311,119,"My friend is reliable, and",personality
+1312,119,"My friend is reliable, and",personality
+1313,119,"My friend is reliable, and",personality
+1314,119,"My friend is reliable, and",personality
+1315,119,"My friend is reliable, and",personality
+1316,119,"My friend is reliable, and",personality
+1317,119,"My friend is reliable, and",personality
+1318,119,"My friend is reliable, and",personality
+1319,119,"My friend is reliable, and",personality
+1320,120,"My friend likes sewing, and",hobby
+1321,120,"My friend likes sewing, and",hobby
+1322,120,"My friend likes sewing, and",hobby
+1323,120,"My friend likes sewing, and",hobby
+1324,120,"My friend likes sewing, and",hobby
+1325,120,"My friend likes sewing, and",hobby
+1326,120,"My friend likes sewing, and",hobby
+1327,120,"My friend likes sewing, and",hobby
+1328,120,"My friend likes sewing, and",hobby
+1329,120,"My friend likes sewing, and",hobby
+1330,120,"My friend likes sewing, and",hobby
+1331,121,"My friend likes cooking, and",hobby
+1332,121,"My friend likes cooking, and",hobby
+1333,121,"My friend likes cooking, and",hobby
+1334,121,"My friend likes cooking, and",hobby
+1335,121,"My friend likes cooking, and",hobby
+1336,121,"My friend likes cooking, and",hobby
+1337,121,"My friend likes cooking, and",hobby
+1338,121,"My friend likes cooking, and",hobby
+1339,121,"My friend likes cooking, and",hobby
+1340,121,"My friend likes cooking, and",hobby
+1341,121,"My friend likes cooking, and",hobby
+1342,122,"My friend likes painting, and",hobby
+1343,122,"My friend likes painting, and",hobby
+1344,122,"My friend likes painting, and",hobby
+1345,122,"My friend likes painting, and",hobby
+1346,122,"My friend likes painting, and",hobby
+1347,122,"My friend likes painting, and",hobby
+1348,122,"My friend likes painting, and",hobby
+1349,122,"My friend likes painting, and",hobby
+1350,122,"My friend likes painting, and",hobby
+1351,122,"My friend likes painting, and",hobby
+1352,122,"My friend likes painting, and",hobby
+1353,123,"My friend likes gardening, and",hobby
+1354,123,"My friend likes gardening, and",hobby
+1355,123,"My friend likes gardening, and",hobby
+1356,123,"My friend likes gardening, and",hobby
+1357,123,"My friend likes gardening, and",hobby
+1358,123,"My friend likes gardening, and",hobby
+1359,123,"My friend likes gardening, and",hobby
+1360,123,"My friend likes gardening, and",hobby
+1361,123,"My friend likes gardening, and",hobby
+1362,123,"My friend likes gardening, and",hobby
+1363,123,"My friend likes gardening, and",hobby
+1364,124,"My friend likes reading, and",hobby
+1365,124,"My friend likes reading, and",hobby
+1366,124,"My friend likes reading, and",hobby
+1367,124,"My friend likes reading, and",hobby
+1368,124,"My friend likes reading, and",hobby
+1369,124,"My friend likes reading, and",hobby
+1370,124,"My friend likes reading, and",hobby
+1371,124,"My friend likes reading, and",hobby
+1372,124,"My friend likes reading, and",hobby
+1373,124,"My friend likes reading, and",hobby
+1374,124,"My friend likes reading, and",hobby
+1375,125,"My friend likes dancing, and",hobby
+1376,125,"My friend likes dancing, and",hobby
+1377,125,"My friend likes dancing, and",hobby
+1378,125,"My friend likes dancing, and",hobby
+1379,125,"My friend likes dancing, and",hobby
+1380,125,"My friend likes dancing, and",hobby
+1381,125,"My friend likes dancing, and",hobby
+1382,125,"My friend likes dancing, and",hobby
+1383,125,"My friend likes dancing, and",hobby
+1384,125,"My friend likes dancing, and",hobby
+1385,125,"My friend likes dancing, and",hobby
+1386,126,"My friend likes yoga, and",hobby
+1387,126,"My friend likes yoga, and",hobby
+1388,126,"My friend likes yoga, and",hobby
+1389,126,"My friend likes yoga, and",hobby
+1390,126,"My friend likes yoga, and",hobby
+1391,126,"My friend likes yoga, and",hobby
+1392,126,"My friend likes yoga, and",hobby
+1393,126,"My friend likes yoga, and",hobby
+1394,126,"My friend likes yoga, and",hobby
+1395,126,"My friend likes yoga, and",hobby
+1396,126,"My friend likes yoga, and",hobby
+1397,127,"My friend likes knitting, and",hobby
+1398,127,"My friend likes knitting, and",hobby
+1399,127,"My friend likes knitting, and",hobby
+1400,127,"My friend likes knitting, and",hobby
+1401,127,"My friend likes knitting, and",hobby
+1402,127,"My friend likes knitting, and",hobby
+1403,127,"My friend likes knitting, and",hobby
+1404,127,"My friend likes knitting, and",hobby
+1405,127,"My friend likes knitting, and",hobby
+1406,127,"My friend likes knitting, and",hobby
+1407,127,"My friend likes knitting, and",hobby
+1408,128,"My friend likes scrapbooking, and",hobby
+1409,128,"My friend likes scrapbooking, and",hobby
+1410,128,"My friend likes scrapbooking, and",hobby
+1411,128,"My friend likes scrapbooking, and",hobby
+1412,128,"My friend likes scrapbooking, and",hobby
+1413,128,"My friend likes scrapbooking, and",hobby
+1414,128,"My friend likes scrapbooking, and",hobby
+1415,128,"My friend likes scrapbooking, and",hobby
+1416,128,"My friend likes scrapbooking, and",hobby
+1417,128,"My friend likes scrapbooking, and",hobby
+1418,128,"My friend likes scrapbooking, and",hobby
+1419,129,"My friend likes baking, and",hobby
+1420,129,"My friend likes baking, and",hobby
+1421,129,"My friend likes baking, and",hobby
+1422,129,"My friend likes baking, and",hobby
+1423,129,"My friend likes baking, and",hobby
+1424,129,"My friend likes baking, and",hobby
+1425,129,"My friend likes baking, and",hobby
+1426,129,"My friend likes baking, and",hobby
+1427,129,"My friend likes baking, and",hobby
+1428,129,"My friend likes baking, and",hobby
+1429,129,"My friend likes baking, and",hobby
+1430,130,"My friend likes shopping, and",hobby
+1431,130,"My friend likes shopping, and",hobby
+1432,130,"My friend likes shopping, and",hobby
+1433,130,"My friend likes shopping, and",hobby
+1434,130,"My friend likes shopping, and",hobby
+1435,130,"My friend likes shopping, and",hobby
+1436,130,"My friend likes shopping, and",hobby
+1437,130,"My friend likes shopping, and",hobby
+1438,130,"My friend likes shopping, and",hobby
+1439,130,"My friend likes shopping, and",hobby
+1440,130,"My friend likes shopping, and",hobby
+1441,131,"My friend likes writing, and",hobby
+1442,131,"My friend likes writing, and",hobby
+1443,131,"My friend likes writing, and",hobby
+1444,131,"My friend likes writing, and",hobby
+1445,131,"My friend likes writing, and",hobby
+1446,131,"My friend likes writing, and",hobby
+1447,131,"My friend likes writing, and",hobby
+1448,131,"My friend likes writing, and",hobby
+1449,131,"My friend likes writing, and",hobby
+1450,131,"My friend likes writing, and",hobby
+1451,131,"My friend likes writing, and",hobby
+1452,132,"My friend likes photography, and",hobby
+1453,132,"My friend likes photography, and",hobby
+1454,132,"My friend likes photography, and",hobby
+1455,132,"My friend likes photography, and",hobby
+1456,132,"My friend likes photography, and",hobby
+1457,132,"My friend likes photography, and",hobby
+1458,132,"My friend likes photography, and",hobby
+1459,132,"My friend likes photography, and",hobby
+1460,132,"My friend likes photography, and",hobby
+1461,132,"My friend likes photography, and",hobby
+1462,132,"My friend likes photography, and",hobby
+1463,133,"My friend likes pottery, and",hobby
+1464,133,"My friend likes pottery, and",hobby
+1465,133,"My friend likes pottery, and",hobby
+1466,133,"My friend likes pottery, and",hobby
+1467,133,"My friend likes pottery, and",hobby
+1468,133,"My friend likes pottery, and",hobby
+1469,133,"My friend likes pottery, and",hobby
+1470,133,"My friend likes pottery, and",hobby
+1471,133,"My friend likes pottery, and",hobby
+1472,133,"My friend likes pottery, and",hobby
+1473,133,"My friend likes pottery, and",hobby
+1474,134,"My friend likes singing, and",hobby
+1475,134,"My friend likes singing, and",hobby
+1476,134,"My friend likes singing, and",hobby
+1477,134,"My friend likes singing, and",hobby
+1478,134,"My friend likes singing, and",hobby
+1479,134,"My friend likes singing, and",hobby
+1480,134,"My friend likes singing, and",hobby
+1481,134,"My friend likes singing, and",hobby
+1482,134,"My friend likes singing, and",hobby
+1483,134,"My friend likes singing, and",hobby
+1484,134,"My friend likes singing, and",hobby
+1485,135,"My friend likes volunteering, and",hobby
+1486,135,"My friend likes volunteering, and",hobby
+1487,135,"My friend likes volunteering, and",hobby
+1488,135,"My friend likes volunteering, and",hobby
+1489,135,"My friend likes volunteering, and",hobby
+1490,135,"My friend likes volunteering, and",hobby
+1491,135,"My friend likes volunteering, and",hobby
+1492,135,"My friend likes volunteering, and",hobby
+1493,135,"My friend likes volunteering, and",hobby
+1494,135,"My friend likes volunteering, and",hobby
+1495,135,"My friend likes volunteering, and",hobby
+1496,136,"My friend likes jewelry making, and",hobby
+1497,136,"My friend likes jewelry making, and",hobby
+1498,136,"My friend likes jewelry making, and",hobby
+1499,136,"My friend likes jewelry making, and",hobby
+1500,136,"My friend likes jewelry making, and",hobby
+1501,136,"My friend likes jewelry making, and",hobby
+1502,136,"My friend likes jewelry making, and",hobby
+1503,136,"My friend likes jewelry making, and",hobby
+1504,136,"My friend likes jewelry making, and",hobby
+1505,136,"My friend likes jewelry making, and",hobby
+1506,136,"My friend likes jewelry making, and",hobby
+1507,137,"My friend likes hiking, and",hobby
+1508,137,"My friend likes hiking, and",hobby
+1509,137,"My friend likes hiking, and",hobby
+1510,137,"My friend likes hiking, and",hobby
+1511,137,"My friend likes hiking, and",hobby
+1512,137,"My friend likes hiking, and",hobby
+1513,137,"My friend likes hiking, and",hobby
+1514,137,"My friend likes hiking, and",hobby
+1515,137,"My friend likes hiking, and",hobby
+1516,137,"My friend likes hiking, and",hobby
+1517,137,"My friend likes hiking, and",hobby
+1518,138,"My friend likes quilting, and",hobby
+1519,138,"My friend likes quilting, and",hobby
+1520,138,"My friend likes quilting, and",hobby
+1521,138,"My friend likes quilting, and",hobby
+1522,138,"My friend likes quilting, and",hobby
+1523,138,"My friend likes quilting, and",hobby
+1524,138,"My friend likes quilting, and",hobby
+1525,138,"My friend likes quilting, and",hobby
+1526,138,"My friend likes quilting, and",hobby
+1527,138,"My friend likes quilting, and",hobby
+1528,138,"My friend likes quilting, and",hobby
+1529,139,"My friend likes calligraphy, and",hobby
+1530,139,"My friend likes calligraphy, and",hobby
+1531,139,"My friend likes calligraphy, and",hobby
+1532,139,"My friend likes calligraphy, and",hobby
+1533,139,"My friend likes calligraphy, and",hobby
+1534,139,"My friend likes calligraphy, and",hobby
+1535,139,"My friend likes calligraphy, and",hobby
+1536,139,"My friend likes calligraphy, and",hobby
+1537,139,"My friend likes calligraphy, and",hobby
+1538,139,"My friend likes calligraphy, and",hobby
+1539,139,"My friend likes calligraphy, and",hobby
+1540,140,"My friend likes woodworking, and",hobby
+1541,140,"My friend likes woodworking, and",hobby
+1542,140,"My friend likes woodworking, and",hobby
+1543,140,"My friend likes woodworking, and",hobby
+1544,140,"My friend likes woodworking, and",hobby
+1545,140,"My friend likes woodworking, and",hobby
+1546,140,"My friend likes woodworking, and",hobby
+1547,140,"My friend likes woodworking, and",hobby
+1548,140,"My friend likes woodworking, and",hobby
+1549,140,"My friend likes woodworking, and",hobby
+1550,140,"My friend likes woodworking, and",hobby
+1551,141,"My friend likes fishing, and",hobby
+1552,141,"My friend likes fishing, and",hobby
+1553,141,"My friend likes fishing, and",hobby
+1554,141,"My friend likes fishing, and",hobby
+1555,141,"My friend likes fishing, and",hobby
+1556,141,"My friend likes fishing, and",hobby
+1557,141,"My friend likes fishing, and",hobby
+1558,141,"My friend likes fishing, and",hobby
+1559,141,"My friend likes fishing, and",hobby
+1560,141,"My friend likes fishing, and",hobby
+1561,141,"My friend likes fishing, and",hobby
+1562,142,"My friend likes cycling, and",hobby
+1563,142,"My friend likes cycling, and",hobby
+1564,142,"My friend likes cycling, and",hobby
+1565,142,"My friend likes cycling, and",hobby
+1566,142,"My friend likes cycling, and",hobby
+1567,142,"My friend likes cycling, and",hobby
+1568,142,"My friend likes cycling, and",hobby
+1569,142,"My friend likes cycling, and",hobby
+1570,142,"My friend likes cycling, and",hobby
+1571,142,"My friend likes cycling, and",hobby
+1572,142,"My friend likes cycling, and",hobby
+1573,143,"My friend likes gaming, and",hobby
+1574,143,"My friend likes gaming, and",hobby
+1575,143,"My friend likes gaming, and",hobby
+1576,143,"My friend likes gaming, and",hobby
+1577,143,"My friend likes gaming, and",hobby
+1578,143,"My friend likes gaming, and",hobby
+1579,143,"My friend likes gaming, and",hobby
+1580,143,"My friend likes gaming, and",hobby
+1581,143,"My friend likes gaming, and",hobby
+1582,143,"My friend likes gaming, and",hobby
+1583,143,"My friend likes gaming, and",hobby
+1584,144,"My friend likes sports, and",hobby
+1585,144,"My friend likes sports, and",hobby
+1586,144,"My friend likes sports, and",hobby
+1587,144,"My friend likes sports, and",hobby
+1588,144,"My friend likes sports, and",hobby
+1589,144,"My friend likes sports, and",hobby
+1590,144,"My friend likes sports, and",hobby
+1591,144,"My friend likes sports, and",hobby
+1592,144,"My friend likes sports, and",hobby
+1593,144,"My friend likes sports, and",hobby
+1594,144,"My friend likes sports, and",hobby
+1595,145,"My friend likes brewing, and",hobby
+1596,145,"My friend likes brewing, and",hobby
+1597,145,"My friend likes brewing, and",hobby
+1598,145,"My friend likes brewing, and",hobby
+1599,145,"My friend likes brewing, and",hobby
+1600,145,"My friend likes brewing, and",hobby
+1601,145,"My friend likes brewing, and",hobby
+1602,145,"My friend likes brewing, and",hobby
+1603,145,"My friend likes brewing, and",hobby
+1604,145,"My friend likes brewing, and",hobby
+1605,145,"My friend likes brewing, and",hobby
+1606,146,"My friend likes camping, and",hobby
+1607,146,"My friend likes camping, and",hobby
+1608,146,"My friend likes camping, and",hobby
+1609,146,"My friend likes camping, and",hobby
+1610,146,"My friend likes camping, and",hobby
+1611,146,"My friend likes camping, and",hobby
+1612,146,"My friend likes camping, and",hobby
+1613,146,"My friend likes camping, and",hobby
+1614,146,"My friend likes camping, and",hobby
+1615,146,"My friend likes camping, and",hobby
+1616,146,"My friend likes camping, and",hobby
+1617,147,"My friend likes paintball, and",hobby
+1618,147,"My friend likes paintball, and",hobby
+1619,147,"My friend likes paintball, and",hobby
+1620,147,"My friend likes paintball, and",hobby
+1621,147,"My friend likes paintball, and",hobby
+1622,147,"My friend likes paintball, and",hobby
+1623,147,"My friend likes paintball, and",hobby
+1624,147,"My friend likes paintball, and",hobby
+1625,147,"My friend likes paintball, and",hobby
+1626,147,"My friend likes paintball, and",hobby
+1627,147,"My friend likes paintball, and",hobby
+1628,148,"My friend likes collecting, and",hobby
+1629,148,"My friend likes collecting, and",hobby
+1630,148,"My friend likes collecting, and",hobby
+1631,148,"My friend likes collecting, and",hobby
+1632,148,"My friend likes collecting, and",hobby
+1633,148,"My friend likes collecting, and",hobby
+1634,148,"My friend likes collecting, and",hobby
+1635,148,"My friend likes collecting, and",hobby
+1636,148,"My friend likes collecting, and",hobby
+1637,148,"My friend likes collecting, and",hobby
+1638,148,"My friend likes collecting, and",hobby
+1639,149,"My friend likes coding, and",hobby
+1640,149,"My friend likes coding, and",hobby
+1641,149,"My friend likes coding, and",hobby
+1642,149,"My friend likes coding, and",hobby
+1643,149,"My friend likes coding, and",hobby
+1644,149,"My friend likes coding, and",hobby
+1645,149,"My friend likes coding, and",hobby
+1646,149,"My friend likes coding, and",hobby
+1647,149,"My friend likes coding, and",hobby
+1648,149,"My friend likes coding, and",hobby
+1649,149,"My friend likes coding, and",hobby
+1650,150,"My friend likes motorcycling, and",hobby
+1651,150,"My friend likes motorcycling, and",hobby
+1652,150,"My friend likes motorcycling, and",hobby
+1653,150,"My friend likes motorcycling, and",hobby
+1654,150,"My friend likes motorcycling, and",hobby
+1655,150,"My friend likes motorcycling, and",hobby
+1656,150,"My friend likes motorcycling, and",hobby
+1657,150,"My friend likes motorcycling, and",hobby
+1658,150,"My friend likes motorcycling, and",hobby
+1659,150,"My friend likes motorcycling, and",hobby
+1660,150,"My friend likes motorcycling, and",hobby
+1661,151,"My friend likes weightlifting, and",hobby
+1662,151,"My friend likes weightlifting, and",hobby
+1663,151,"My friend likes weightlifting, and",hobby
+1664,151,"My friend likes weightlifting, and",hobby
+1665,151,"My friend likes weightlifting, and",hobby
+1666,151,"My friend likes weightlifting, and",hobby
+1667,151,"My friend likes weightlifting, and",hobby
+1668,151,"My friend likes weightlifting, and",hobby
+1669,151,"My friend likes weightlifting, and",hobby
+1670,151,"My friend likes weightlifting, and",hobby
+1671,151,"My friend likes weightlifting, and",hobby
+1672,152,"My friend likes carpentry, and",hobby
+1673,152,"My friend likes carpentry, and",hobby
+1674,152,"My friend likes carpentry, and",hobby
+1675,152,"My friend likes carpentry, and",hobby
+1676,152,"My friend likes carpentry, and",hobby
+1677,152,"My friend likes carpentry, and",hobby
+1678,152,"My friend likes carpentry, and",hobby
+1679,152,"My friend likes carpentry, and",hobby
+1680,152,"My friend likes carpentry, and",hobby
+1681,152,"My friend likes carpentry, and",hobby
+1682,152,"My friend likes carpentry, and",hobby
+1683,153,"My friend likes rock climbing, and",hobby
+1684,153,"My friend likes rock climbing, and",hobby
+1685,153,"My friend likes rock climbing, and",hobby
+1686,153,"My friend likes rock climbing, and",hobby
+1687,153,"My friend likes rock climbing, and",hobby
+1688,153,"My friend likes rock climbing, and",hobby
+1689,153,"My friend likes rock climbing, and",hobby
+1690,153,"My friend likes rock climbing, and",hobby
+1691,153,"My friend likes rock climbing, and",hobby
+1692,153,"My friend likes rock climbing, and",hobby
+1693,153,"My friend likes rock climbing, and",hobby
+1694,154,"My friend likes homebrewing, and",hobby
+1695,154,"My friend likes homebrewing, and",hobby
+1696,154,"My friend likes homebrewing, and",hobby
+1697,154,"My friend likes homebrewing, and",hobby
+1698,154,"My friend likes homebrewing, and",hobby
+1699,154,"My friend likes homebrewing, and",hobby
+1700,154,"My friend likes homebrewing, and",hobby
+1701,154,"My friend likes homebrewing, and",hobby
+1702,154,"My friend likes homebrewing, and",hobby
+1703,154,"My friend likes homebrewing, and",hobby
+1704,154,"My friend likes homebrewing, and",hobby
+1705,155,"My friend likes running, and",hobby
+1706,155,"My friend likes running, and",hobby
+1707,155,"My friend likes running, and",hobby
+1708,155,"My friend likes running, and",hobby
+1709,155,"My friend likes running, and",hobby
+1710,155,"My friend likes running, and",hobby
+1711,155,"My friend likes running, and",hobby
+1712,155,"My friend likes running, and",hobby
+1713,155,"My friend likes running, and",hobby
+1714,155,"My friend likes running, and",hobby
+1715,155,"My friend likes running, and",hobby
+1716,156,"My friend likes target shooting, and",hobby
+1717,156,"My friend likes target shooting, and",hobby
+1718,156,"My friend likes target shooting, and",hobby
+1719,156,"My friend likes target shooting, and",hobby
+1720,156,"My friend likes target shooting, and",hobby
+1721,156,"My friend likes target shooting, and",hobby
+1722,156,"My friend likes target shooting, and",hobby
+1723,156,"My friend likes target shooting, and",hobby
+1724,156,"My friend likes target shooting, and",hobby
+1725,156,"My friend likes target shooting, and",hobby
+1726,156,"My friend likes target shooting, and",hobby
+1727,157,"My friend likes robotics, and",hobby
+1728,157,"My friend likes robotics, and",hobby
+1729,157,"My friend likes robotics, and",hobby
+1730,157,"My friend likes robotics, and",hobby
+1731,157,"My friend likes robotics, and",hobby
+1732,157,"My friend likes robotics, and",hobby
+1733,157,"My friend likes robotics, and",hobby
+1734,157,"My friend likes robotics, and",hobby
+1735,157,"My friend likes robotics, and",hobby
+1736,157,"My friend likes robotics, and",hobby
+1737,157,"My friend likes robotics, and",hobby
+1738,158,"My friend likes kayaking, and",hobby
+1739,158,"My friend likes kayaking, and",hobby
+1740,158,"My friend likes kayaking, and",hobby
+1741,158,"My friend likes kayaking, and",hobby
+1742,158,"My friend likes kayaking, and",hobby
+1743,158,"My friend likes kayaking, and",hobby
+1744,158,"My friend likes kayaking, and",hobby
+1745,158,"My friend likes kayaking, and",hobby
+1746,158,"My friend likes kayaking, and",hobby
+1747,158,"My friend likes kayaking, and",hobby
+1748,158,"My friend likes kayaking, and",hobby
+1749,159,"My friend likes metalworking, and",hobby
+1750,159,"My friend likes metalworking, and",hobby
+1751,159,"My friend likes metalworking, and",hobby
+1752,159,"My friend likes metalworking, and",hobby
+1753,159,"My friend likes metalworking, and",hobby
+1754,159,"My friend likes metalworking, and",hobby
+1755,159,"My friend likes metalworking, and",hobby
+1756,159,"My friend likes metalworking, and",hobby
+1757,159,"My friend likes metalworking, and",hobby
+1758,159,"My friend likes metalworking, and",hobby
+1759,159,"My friend likes metalworking, and",hobby
+1760,160,"My friend likes pink color, and",color
+1761,160,"My friend likes pink color, and",color
+1762,160,"My friend likes pink color, and",color
+1763,160,"My friend likes pink color, and",color
+1764,160,"My friend likes pink color, and",color
+1765,160,"My friend likes pink color, and",color
+1766,160,"My friend likes pink color, and",color
+1767,160,"My friend likes pink color, and",color
+1768,160,"My friend likes pink color, and",color
+1769,160,"My friend likes pink color, and",color
+1770,160,"My friend likes pink color, and",color
+1771,161,"My friend likes lavender color, and",color
+1772,161,"My friend likes lavender color, and",color
+1773,161,"My friend likes lavender color, and",color
+1774,161,"My friend likes lavender color, and",color
+1775,161,"My friend likes lavender color, and",color
+1776,161,"My friend likes lavender color, and",color
+1777,161,"My friend likes lavender color, and",color
+1778,161,"My friend likes lavender color, and",color
+1779,161,"My friend likes lavender color, and",color
+1780,161,"My friend likes lavender color, and",color
+1781,161,"My friend likes lavender color, and",color
+1782,162,"My friend likes rose color, and",color
+1783,162,"My friend likes rose color, and",color
+1784,162,"My friend likes rose color, and",color
+1785,162,"My friend likes rose color, and",color
+1786,162,"My friend likes rose color, and",color
+1787,162,"My friend likes rose color, and",color
+1788,162,"My friend likes rose color, and",color
+1789,162,"My friend likes rose color, and",color
+1790,162,"My friend likes rose color, and",color
+1791,162,"My friend likes rose color, and",color
+1792,162,"My friend likes rose color, and",color
+1793,163,"My friend likes coral color, and",color
+1794,163,"My friend likes coral color, and",color
+1795,163,"My friend likes coral color, and",color
+1796,163,"My friend likes coral color, and",color
+1797,163,"My friend likes coral color, and",color
+1798,163,"My friend likes coral color, and",color
+1799,163,"My friend likes coral color, and",color
+1800,163,"My friend likes coral color, and",color
+1801,163,"My friend likes coral color, and",color
+1802,163,"My friend likes coral color, and",color
+1803,163,"My friend likes coral color, and",color
+1804,164,"My friend likes peach color, and",color
+1805,164,"My friend likes peach color, and",color
+1806,164,"My friend likes peach color, and",color
+1807,164,"My friend likes peach color, and",color
+1808,164,"My friend likes peach color, and",color
+1809,164,"My friend likes peach color, and",color
+1810,164,"My friend likes peach color, and",color
+1811,164,"My friend likes peach color, and",color
+1812,164,"My friend likes peach color, and",color
+1813,164,"My friend likes peach color, and",color
+1814,164,"My friend likes peach color, and",color
+1815,165,"My friend likes magenta color, and",color
+1816,165,"My friend likes magenta color, and",color
+1817,165,"My friend likes magenta color, and",color
+1818,165,"My friend likes magenta color, and",color
+1819,165,"My friend likes magenta color, and",color
+1820,165,"My friend likes magenta color, and",color
+1821,165,"My friend likes magenta color, and",color
+1822,165,"My friend likes magenta color, and",color
+1823,165,"My friend likes magenta color, and",color
+1824,165,"My friend likes magenta color, and",color
+1825,165,"My friend likes magenta color, and",color
+1826,166,"My friend likes mauve color, and",color
+1827,166,"My friend likes mauve color, and",color
+1828,166,"My friend likes mauve color, and",color
+1829,166,"My friend likes mauve color, and",color
+1830,166,"My friend likes mauve color, and",color
+1831,166,"My friend likes mauve color, and",color
+1832,166,"My friend likes mauve color, and",color
+1833,166,"My friend likes mauve color, and",color
+1834,166,"My friend likes mauve color, and",color
+1835,166,"My friend likes mauve color, and",color
+1836,166,"My friend likes mauve color, and",color
+1837,167,"My friend likes salmon color, and",color
+1838,167,"My friend likes salmon color, and",color
+1839,167,"My friend likes salmon color, and",color
+1840,167,"My friend likes salmon color, and",color
+1841,167,"My friend likes salmon color, and",color
+1842,167,"My friend likes salmon color, and",color
+1843,167,"My friend likes salmon color, and",color
+1844,167,"My friend likes salmon color, and",color
+1845,167,"My friend likes salmon color, and",color
+1846,167,"My friend likes salmon color, and",color
+1847,167,"My friend likes salmon color, and",color
+1848,168,"My friend likes fuchsia color, and",color
+1849,168,"My friend likes fuchsia color, and",color
+1850,168,"My friend likes fuchsia color, and",color
+1851,168,"My friend likes fuchsia color, and",color
+1852,168,"My friend likes fuchsia color, and",color
+1853,168,"My friend likes fuchsia color, and",color
+1854,168,"My friend likes fuchsia color, and",color
+1855,168,"My friend likes fuchsia color, and",color
+1856,168,"My friend likes fuchsia color, and",color
+1857,168,"My friend likes fuchsia color, and",color
+1858,168,"My friend likes fuchsia color, and",color
+1859,169,"My friend likes lilac color, and",color
+1860,169,"My friend likes lilac color, and",color
+1861,169,"My friend likes lilac color, and",color
+1862,169,"My friend likes lilac color, and",color
+1863,169,"My friend likes lilac color, and",color
+1864,169,"My friend likes lilac color, and",color
+1865,169,"My friend likes lilac color, and",color
+1866,169,"My friend likes lilac color, and",color
+1867,169,"My friend likes lilac color, and",color
+1868,169,"My friend likes lilac color, and",color
+1869,169,"My friend likes lilac color, and",color
+1870,170,"My friend likes blush color, and",color
+1871,170,"My friend likes blush color, and",color
+1872,170,"My friend likes blush color, and",color
+1873,170,"My friend likes blush color, and",color
+1874,170,"My friend likes blush color, and",color
+1875,170,"My friend likes blush color, and",color
+1876,170,"My friend likes blush color, and",color
+1877,170,"My friend likes blush color, and",color
+1878,170,"My friend likes blush color, and",color
+1879,170,"My friend likes blush color, and",color
+1880,170,"My friend likes blush color, and",color
+1881,171,"My friend likes pastel color, and",color
+1882,171,"My friend likes pastel color, and",color
+1883,171,"My friend likes pastel color, and",color
+1884,171,"My friend likes pastel color, and",color
+1885,171,"My friend likes pastel color, and",color
+1886,171,"My friend likes pastel color, and",color
+1887,171,"My friend likes pastel color, and",color
+1888,171,"My friend likes pastel color, and",color
+1889,171,"My friend likes pastel color, and",color
+1890,171,"My friend likes pastel color, and",color
+1891,171,"My friend likes pastel color, and",color
+1892,172,"My friend likes ruby color, and",color
+1893,172,"My friend likes ruby color, and",color
+1894,172,"My friend likes ruby color, and",color
+1895,172,"My friend likes ruby color, and",color
+1896,172,"My friend likes ruby color, and",color
+1897,172,"My friend likes ruby color, and",color
+1898,172,"My friend likes ruby color, and",color
+1899,172,"My friend likes ruby color, and",color
+1900,172,"My friend likes ruby color, and",color
+1901,172,"My friend likes ruby color, and",color
+1902,172,"My friend likes ruby color, and",color
+1903,173,"My friend likes champagne color, and",color
+1904,173,"My friend likes champagne color, and",color
+1905,173,"My friend likes champagne color, and",color
+1906,173,"My friend likes champagne color, and",color
+1907,173,"My friend likes champagne color, and",color
+1908,173,"My friend likes champagne color, and",color
+1909,173,"My friend likes champagne color, and",color
+1910,173,"My friend likes champagne color, and",color
+1911,173,"My friend likes champagne color, and",color
+1912,173,"My friend likes champagne color, and",color
+1913,173,"My friend likes champagne color, and",color
+1914,174,"My friend likes plum color, and",color
+1915,174,"My friend likes plum color, and",color
+1916,174,"My friend likes plum color, and",color
+1917,174,"My friend likes plum color, and",color
+1918,174,"My friend likes plum color, and",color
+1919,174,"My friend likes plum color, and",color
+1920,174,"My friend likes plum color, and",color
+1921,174,"My friend likes plum color, and",color
+1922,174,"My friend likes plum color, and",color
+1923,174,"My friend likes plum color, and",color
+1924,174,"My friend likes plum color, and",color
+1925,175,"My friend likes berry color, and",color
+1926,175,"My friend likes berry color, and",color
+1927,175,"My friend likes berry color, and",color
+1928,175,"My friend likes berry color, and",color
+1929,175,"My friend likes berry color, and",color
+1930,175,"My friend likes berry color, and",color
+1931,175,"My friend likes berry color, and",color
+1932,175,"My friend likes berry color, and",color
+1933,175,"My friend likes berry color, and",color
+1934,175,"My friend likes berry color, and",color
+1935,175,"My friend likes berry color, and",color
+1936,176,"My friend likes aubergine color, and",color
+1937,176,"My friend likes aubergine color, and",color
+1938,176,"My friend likes aubergine color, and",color
+1939,176,"My friend likes aubergine color, and",color
+1940,176,"My friend likes aubergine color, and",color
+1941,176,"My friend likes aubergine color, and",color
+1942,176,"My friend likes aubergine color, and",color
+1943,176,"My friend likes aubergine color, and",color
+1944,176,"My friend likes aubergine color, and",color
+1945,176,"My friend likes aubergine color, and",color
+1946,176,"My friend likes aubergine color, and",color
+1947,177,"My friend likes maroon color, and",color
+1948,177,"My friend likes maroon color, and",color
+1949,177,"My friend likes maroon color, and",color
+1950,177,"My friend likes maroon color, and",color
+1951,177,"My friend likes maroon color, and",color
+1952,177,"My friend likes maroon color, and",color
+1953,177,"My friend likes maroon color, and",color
+1954,177,"My friend likes maroon color, and",color
+1955,177,"My friend likes maroon color, and",color
+1956,177,"My friend likes maroon color, and",color
+1957,177,"My friend likes maroon color, and",color
+1958,178,"My friend likes orchid color, and",color
+1959,178,"My friend likes orchid color, and",color
+1960,178,"My friend likes orchid color, and",color
+1961,178,"My friend likes orchid color, and",color
+1962,178,"My friend likes orchid color, and",color
+1963,178,"My friend likes orchid color, and",color
+1964,178,"My friend likes orchid color, and",color
+1965,178,"My friend likes orchid color, and",color
+1966,178,"My friend likes orchid color, and",color
+1967,178,"My friend likes orchid color, and",color
+1968,178,"My friend likes orchid color, and",color
+1969,179,"My friend likes violet color, and",color
+1970,179,"My friend likes violet color, and",color
+1971,179,"My friend likes violet color, and",color
+1972,179,"My friend likes violet color, and",color
+1973,179,"My friend likes violet color, and",color
+1974,179,"My friend likes violet color, and",color
+1975,179,"My friend likes violet color, and",color
+1976,179,"My friend likes violet color, and",color
+1977,179,"My friend likes violet color, and",color
+1978,179,"My friend likes violet color, and",color
+1979,179,"My friend likes violet color, and",color
+1980,180,"My friend likes blue color, and",color
+1981,180,"My friend likes blue color, and",color
+1982,180,"My friend likes blue color, and",color
+1983,180,"My friend likes blue color, and",color
+1984,180,"My friend likes blue color, and",color
+1985,180,"My friend likes blue color, and",color
+1986,180,"My friend likes blue color, and",color
+1987,180,"My friend likes blue color, and",color
+1988,180,"My friend likes blue color, and",color
+1989,180,"My friend likes blue color, and",color
+1990,180,"My friend likes blue color, and",color
+1991,181,"My friend likes black color, and",color
+1992,181,"My friend likes black color, and",color
+1993,181,"My friend likes black color, and",color
+1994,181,"My friend likes black color, and",color
+1995,181,"My friend likes black color, and",color
+1996,181,"My friend likes black color, and",color
+1997,181,"My friend likes black color, and",color
+1998,181,"My friend likes black color, and",color
+1999,181,"My friend likes black color, and",color
+2000,181,"My friend likes black color, and",color
+2001,181,"My friend likes black color, and",color
+2002,182,"My friend likes green color, and",color
+2003,182,"My friend likes green color, and",color
+2004,182,"My friend likes green color, and",color
+2005,182,"My friend likes green color, and",color
+2006,182,"My friend likes green color, and",color
+2007,182,"My friend likes green color, and",color
+2008,182,"My friend likes green color, and",color
+2009,182,"My friend likes green color, and",color
+2010,182,"My friend likes green color, and",color
+2011,182,"My friend likes green color, and",color
+2012,182,"My friend likes green color, and",color
+2013,183,"My friend likes red color, and",color
+2014,183,"My friend likes red color, and",color
+2015,183,"My friend likes red color, and",color
+2016,183,"My friend likes red color, and",color
+2017,183,"My friend likes red color, and",color
+2018,183,"My friend likes red color, and",color
+2019,183,"My friend likes red color, and",color
+2020,183,"My friend likes red color, and",color
+2021,183,"My friend likes red color, and",color
+2022,183,"My friend likes red color, and",color
+2023,183,"My friend likes red color, and",color
+2024,184,"My friend likes navy color, and",color
+2025,184,"My friend likes navy color, and",color
+2026,184,"My friend likes navy color, and",color
+2027,184,"My friend likes navy color, and",color
+2028,184,"My friend likes navy color, and",color
+2029,184,"My friend likes navy color, and",color
+2030,184,"My friend likes navy color, and",color
+2031,184,"My friend likes navy color, and",color
+2032,184,"My friend likes navy color, and",color
+2033,184,"My friend likes navy color, and",color
+2034,184,"My friend likes navy color, and",color
+2035,185,"My friend likes gray color, and",color
+2036,185,"My friend likes gray color, and",color
+2037,185,"My friend likes gray color, and",color
+2038,185,"My friend likes gray color, and",color
+2039,185,"My friend likes gray color, and",color
+2040,185,"My friend likes gray color, and",color
+2041,185,"My friend likes gray color, and",color
+2042,185,"My friend likes gray color, and",color
+2043,185,"My friend likes gray color, and",color
+2044,185,"My friend likes gray color, and",color
+2045,185,"My friend likes gray color, and",color
+2046,186,"My friend likes brown color, and",color
+2047,186,"My friend likes brown color, and",color
+2048,186,"My friend likes brown color, and",color
+2049,186,"My friend likes brown color, and",color
+2050,186,"My friend likes brown color, and",color
+2051,186,"My friend likes brown color, and",color
+2052,186,"My friend likes brown color, and",color
+2053,186,"My friend likes brown color, and",color
+2054,186,"My friend likes brown color, and",color
+2055,186,"My friend likes brown color, and",color
+2056,186,"My friend likes brown color, and",color
+2057,187,"My friend likes charcoal color, and",color
+2058,187,"My friend likes charcoal color, and",color
+2059,187,"My friend likes charcoal color, and",color
+2060,187,"My friend likes charcoal color, and",color
+2061,187,"My friend likes charcoal color, and",color
+2062,187,"My friend likes charcoal color, and",color
+2063,187,"My friend likes charcoal color, and",color
+2064,187,"My friend likes charcoal color, and",color
+2065,187,"My friend likes charcoal color, and",color
+2066,187,"My friend likes charcoal color, and",color
+2067,187,"My friend likes charcoal color, and",color
+2068,188,"My friend likes taupe color, and",color
+2069,188,"My friend likes taupe color, and",color
+2070,188,"My friend likes taupe color, and",color
+2071,188,"My friend likes taupe color, and",color
+2072,188,"My friend likes taupe color, and",color
+2073,188,"My friend likes taupe color, and",color
+2074,188,"My friend likes taupe color, and",color
+2075,188,"My friend likes taupe color, and",color
+2076,188,"My friend likes taupe color, and",color
+2077,188,"My friend likes taupe color, and",color
+2078,188,"My friend likes taupe color, and",color
+2079,189,"My friend likes olive color, and",color
+2080,189,"My friend likes olive color, and",color
+2081,189,"My friend likes olive color, and",color
+2082,189,"My friend likes olive color, and",color
+2083,189,"My friend likes olive color, and",color
+2084,189,"My friend likes olive color, and",color
+2085,189,"My friend likes olive color, and",color
+2086,189,"My friend likes olive color, and",color
+2087,189,"My friend likes olive color, and",color
+2088,189,"My friend likes olive color, and",color
+2089,189,"My friend likes olive color, and",color
+2090,190,"My friend likes teal color, and",color
+2091,190,"My friend likes teal color, and",color
+2092,190,"My friend likes teal color, and",color
+2093,190,"My friend likes teal color, and",color
+2094,190,"My friend likes teal color, and",color
+2095,190,"My friend likes teal color, and",color
+2096,190,"My friend likes teal color, and",color
+2097,190,"My friend likes teal color, and",color
+2098,190,"My friend likes teal color, and",color
+2099,190,"My friend likes teal color, and",color
+2100,190,"My friend likes teal color, and",color
+2101,191,"My friend likes burgundy color, and",color
+2102,191,"My friend likes burgundy color, and",color
+2103,191,"My friend likes burgundy color, and",color
+2104,191,"My friend likes burgundy color, and",color
+2105,191,"My friend likes burgundy color, and",color
+2106,191,"My friend likes burgundy color, and",color
+2107,191,"My friend likes burgundy color, and",color
+2108,191,"My friend likes burgundy color, and",color
+2109,191,"My friend likes burgundy color, and",color
+2110,191,"My friend likes burgundy color, and",color
+2111,191,"My friend likes burgundy color, and",color
+2112,192,"My friend likes slate color, and",color
+2113,192,"My friend likes slate color, and",color
+2114,192,"My friend likes slate color, and",color
+2115,192,"My friend likes slate color, and",color
+2116,192,"My friend likes slate color, and",color
+2117,192,"My friend likes slate color, and",color
+2118,192,"My friend likes slate color, and",color
+2119,192,"My friend likes slate color, and",color
+2120,192,"My friend likes slate color, and",color
+2121,192,"My friend likes slate color, and",color
+2122,192,"My friend likes slate color, and",color
+2123,193,"My friend likes copper color, and",color
+2124,193,"My friend likes copper color, and",color
+2125,193,"My friend likes copper color, and",color
+2126,193,"My friend likes copper color, and",color
+2127,193,"My friend likes copper color, and",color
+2128,193,"My friend likes copper color, and",color
+2129,193,"My friend likes copper color, and",color
+2130,193,"My friend likes copper color, and",color
+2131,193,"My friend likes copper color, and",color
+2132,193,"My friend likes copper color, and",color
+2133,193,"My friend likes copper color, and",color
+2134,194,"My friend likes bronze color, and",color
+2135,194,"My friend likes bronze color, and",color
+2136,194,"My friend likes bronze color, and",color
+2137,194,"My friend likes bronze color, and",color
+2138,194,"My friend likes bronze color, and",color
+2139,194,"My friend likes bronze color, and",color
+2140,194,"My friend likes bronze color, and",color
+2141,194,"My friend likes bronze color, and",color
+2142,194,"My friend likes bronze color, and",color
+2143,194,"My friend likes bronze color, and",color
+2144,194,"My friend likes bronze color, and",color
+2145,195,"My friend likes khaki color, and",color
+2146,195,"My friend likes khaki color, and",color
+2147,195,"My friend likes khaki color, and",color
+2148,195,"My friend likes khaki color, and",color
+2149,195,"My friend likes khaki color, and",color
+2150,195,"My friend likes khaki color, and",color
+2151,195,"My friend likes khaki color, and",color
+2152,195,"My friend likes khaki color, and",color
+2153,195,"My friend likes khaki color, and",color
+2154,195,"My friend likes khaki color, and",color
+2155,195,"My friend likes khaki color, and",color
+2156,196,"My friend likes indigo color, and",color
+2157,196,"My friend likes indigo color, and",color
+2158,196,"My friend likes indigo color, and",color
+2159,196,"My friend likes indigo color, and",color
+2160,196,"My friend likes indigo color, and",color
+2161,196,"My friend likes indigo color, and",color
+2162,196,"My friend likes indigo color, and",color
+2163,196,"My friend likes indigo color, and",color
+2164,196,"My friend likes indigo color, and",color
+2165,196,"My friend likes indigo color, and",color
+2166,196,"My friend likes indigo color, and",color
+2167,197,"My friend likes silver color, and",color
+2168,197,"My friend likes silver color, and",color
+2169,197,"My friend likes silver color, and",color
+2170,197,"My friend likes silver color, and",color
+2171,197,"My friend likes silver color, and",color
+2172,197,"My friend likes silver color, and",color
+2173,197,"My friend likes silver color, and",color
+2174,197,"My friend likes silver color, and",color
+2175,197,"My friend likes silver color, and",color
+2176,197,"My friend likes silver color, and",color
+2177,197,"My friend likes silver color, and",color
+2178,198,"My friend likes gold color, and",color
+2179,198,"My friend likes gold color, and",color
+2180,198,"My friend likes gold color, and",color
+2181,198,"My friend likes gold color, and",color
+2182,198,"My friend likes gold color, and",color
+2183,198,"My friend likes gold color, and",color
+2184,198,"My friend likes gold color, and",color
+2185,198,"My friend likes gold color, and",color
+2186,198,"My friend likes gold color, and",color
+2187,198,"My friend likes gold color, and",color
+2188,198,"My friend likes gold color, and",color
+2189,199,"My friend likes ivory color, and",color
+2190,199,"My friend likes ivory color, and",color
+2191,199,"My friend likes ivory color, and",color
+2192,199,"My friend likes ivory color, and",color
+2193,199,"My friend likes ivory color, and",color
+2194,199,"My friend likes ivory color, and",color
+2195,199,"My friend likes ivory color, and",color
+2196,199,"My friend likes ivory color, and",color
+2197,199,"My friend likes ivory color, and",color
+2198,199,"My friend likes ivory color, and",color
+2199,199,"My friend likes ivory color, and",color
