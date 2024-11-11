@@ -34,3 +34,16 @@ To set up the environment and install all dependencies, run:
 
 ```bash
 pip install -r requirements.txt
+```
+
+## How to Run
+
+
+
+
+
+
+
+
+
+
