@@ -38,6 +38,26 @@ pip install -r requirements.txt
 
 ## How to Run
 
+Pronoun Recognition 
+- **Gender Diversity Recognition (GDR)**
+
+```bash
+python Gender_Diversity_Recognition.py
+```
+
+- **Gender Diversity Recognition (GDR)**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
