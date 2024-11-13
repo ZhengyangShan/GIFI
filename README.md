@@ -8,7 +8,10 @@ While previous studies primarily focus on binary gender distinctions, we introdu
 We conduct extensive evaluations with GIFI on 15 popular open-source and proprietary LLMs, discovering significant variations in LLMs' gender inclusivity.
 Our study highlights the importance of improving LLMs’ inclusivity, providing a critical benchmark for future advancements in gender fairness in generative models.
 
-![](figures/overall_score.jpg)
+<p align="center">
+  <img src="figures/overall_score.jpg" alt="Image 1" width="45%">
+  <img src="figures/GIFI_score.jpg" alt="Image 2" width="45%">
+</p>
 
 ## Project Structure
 
