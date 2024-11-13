@@ -25,7 +25,7 @@ Our study highlights the importance of improving LLMs’ inclusivity, providing 
   - `Counterfactual_Fairness.py`: Script for semantic similarity analysis.
   - `Stereotypical_Association-Occupational_Fairness.py`: Script to compute OF and SA scores.
   - `Performance_Equality.py`: Script for math performance anlysis.
-- **Analysis Directory**: `analysis/`
+- **Figures Directory**: `figures/`
   - Contains output and analysis results.
 
 ## Datasets
