@@ -69,7 +69,7 @@ python Counterfactual_Fairness.py
 
 - Non-Toxicity Score (NTS)
 
-Set up your API key at ![here](https://perspectiveapi.com).
+Set up your API key at [here](https://perspectiveapi.com).
 
 ```bash
 python Non-Toxicity-Score.py
