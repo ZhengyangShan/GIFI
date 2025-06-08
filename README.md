@@ -4,8 +4,9 @@ This repository contains code for analyzing and measuring gender inclusivity and
 
 ## Abstract
 We present a comprehensive evaluation of gender fairness in large language models (LLMs), focusing on their ability to handle both binary and non-binary genders. 
-While previous studies primarily focus on binary gender distinctions, we introduce the Gender Inclusivity Fairness Index (GIFI), a novel and comprehensive metric that quantifies the diverse gender inclusivity of LLMs. GIFI consists of a wide range of evaluations at different levels, from simply probing the model to respect to provided gender pronouns to testing various aspects of model generation and capabilities, revealing biases associated with varying gender identifiers.
-We conduct extensive evaluations with GIFI on 20 popular open-source and proprietary LLMs, discovering significant variations in LLMs' gender inclusivity.
+While previous studies primarily focus on binary gender distinctions,
+we introduce the Gender Inclusivity Fairness Index (GIFI), a novel and comprehensive metric that quantifies the diverse gender inclusivity of LLMs. GIFI consists of a wide range of evaluations at different levels, from simply probing the model with respect to provided gender pronouns to testing various aspects of model generation and cognitive behaviors under different gender assumptions, revealing biases associated with varying gender identifiers.
+We conduct extensive evaluations with GIFI on 22 prominent open-source and proprietary LLMs of varying sizes and capabilities, discovering significant variations in LLMs' gender inclusivity.
 Our study highlights the importance of improving LLMs’ inclusivity, providing a critical benchmark for future advancements in gender fairness in generative models.
 
 <p align="center">
