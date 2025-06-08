@@ -3,6 +3,7 @@
 This repository contains code for analyzing and measuring gender inclusivity and bias in large language models (LLMs) by introducing the Gender Inclusivity Fairness Index (GIFI). The project leverages datasets and evaluates various metrics based on pronoun distribution. 
 
 🔍 [Website](https://zhengyangshan.github.io/GIFI.github.io/)
+
 📄 Paper
 
 ## Abstract
