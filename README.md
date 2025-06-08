@@ -1,9 +1,9 @@
-# Gender Inclusivity Fairness Index (GIFI)
-## A Multilevel Framework for Evaluating Gender Diversity in  Large Language Models
+# Gender Inclusivity Fairness Index (GIFI): A Multilevel Framework for Evaluating Gender Diversity in  Large Language Models
 
 This repository contains code for analyzing and measuring gender inclusivity and bias in large language models (LLMs) by introducing the Gender Inclusivity Fairness Index (GIFI). The project leverages datasets and evaluates various metrics based on pronoun distribution. 
 
-🔍 [website](https://zhengyangshan.github.io/GIFI.github.io/)
+🔍 [Website](https://zhengyangshan.github.io/GIFI.github.io/)
+📄 Paper
 
 ## Abstract
 We present a comprehensive evaluation of gender fairness in large language models (LLMs), focusing on their ability to handle both binary and non-binary genders. 
