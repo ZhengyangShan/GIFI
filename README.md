@@ -14,6 +14,10 @@ Our study highlights the importance of improving LLMs’ inclusivity, providing 
   <img src="figures/GIFI_score.jpg" alt="Image 2" width="45%">
 </p>
 
+<p align="center">
+  <img src="figures/overall_score.jpg" alt="Image 1" width="100%">
+</p>
+
 ## Project Structure
 
 - **Dataset Directory**: `data/`
