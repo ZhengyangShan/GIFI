@@ -10,12 +10,12 @@ We conduct extensive evaluations with GIFI on 22 prominent open-source and propr
 Our study highlights the importance of improving LLMs’ inclusivity, providing a critical benchmark for future advancements in gender fairness in generative models.
 
 <p align="center">
-  <img src="figures/overall_score.jpg" alt="Image 1" width="45%">
-  <img src="figures/GIFI_score.jpg" alt="Image 2" width="45%">
+  <img src="figures/GIFI-ranking.png" alt="Image 1" width="45%">
+  <img src="figures/GIFI.png" alt="Image 2" width="45%">
 </p>
 
 <p align="center">
-  <img src="figures/overall_score.jpg" alt="Image 1" width="100%">
+  <img src="figures/GIFI-individual.png" alt="Image 1" width="100%">
 </p>
 
 ## Project Structure
