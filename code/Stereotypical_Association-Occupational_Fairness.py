@@ -64,7 +64,7 @@ def SA_score(SA_df):
     )
     return 1 - pronoun_proportions['normalized_bias_score'].mean()
 
-def main(file_path):
+def compute_saof_score(file_path):
     SOFA = pd.read_csv(file_path).dropna(subset=['generated_sentences']).reset_index(drop=True)
     pronouns, detected_pronouns_family = zip(*[identify_pronouns(text) for text in SOFA['generated_sentences']])
     SOFA['detected_pronouns_family'] = detected_pronouns_family
@@ -83,4 +83,4 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--file", required=True)
     args = parser.parse_args()
-    main(args.file)
+    compute_saof_score(args.file)
