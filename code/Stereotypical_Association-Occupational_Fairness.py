@@ -80,5 +80,7 @@ def main(file_path):
     return OF, SA
 
 if __name__ == "__main__":
-    file_path = "file_name.csv"  
-    main(file_path)
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--file", required=True)
+    args = parser.parse_args()
+    main(args.file)
