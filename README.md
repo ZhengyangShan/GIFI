@@ -143,8 +143,6 @@ If you find this useful, please consider citing our work and starring the repo.
 
 
 
-Got questions or want to contribute? Open an issue or contact us directly via the GitHub Discussion page.
-
 
 
 
