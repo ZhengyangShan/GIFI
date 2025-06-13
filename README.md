@@ -22,11 +22,11 @@ Our study highlights the importance of improving LLMs’ inclusivity, providing 
   <img src="figures/GIFI-individual.png" alt="Image 1" width="100%">
 </p>
 
-## Project Structure
+## ⚙️ Project Structure
 
 - **Dataset Directory**: `data/`
-  - `data/template`: Contains CSV files used for generating model outputs.
-  - `data/model-generation/`: Contains CSV files used for analysis.
+  - `data/template`: template used for generating model outputs.
+  - `data/model-generation/`: model generations used for analysis.
 - **Code Directory**: `code/`
   - `Gender_Diversity_Recognition.py`: Script for gender diversity analysis.
   - `Non-Toxicity-Score.py`: Script for toxicity socres.
@@ -37,21 +37,24 @@ Our study highlights the importance of improving LLMs’ inclusivity, providing 
 - **Figures Directory**: `figures/`
   - Contains output and analysis results.
 
-## Datasets
+### Datasets
 
 `data/model-generation/`
 
-- **gender-pronoun-recognition**: Contains generated sentences for gender diversity recognition.
-- **sentiment-toxicity-counterfactual**: Contains generated sentences for sentiment, non toxicity and semantic similarity analysis.
+- **gender-pronoun-recognition**: Contains generated sentences for gender diversity recognition (GDR).
+- **sentiment-toxicity-counterfactual**: Contains generated sentences for sentiment (SN), non toxicity (NTS) and semantic similarity (CF) analysis.
 - **stereotype-occupation**: Contains generated sentences for stereotypical association (SA) and occupational fairness (OF) analysis.
-- **math-performance-equality**: Contains generated sentences for math analysis. 
+- **math-performance-equality**: Contains generated sentences for math analysis (PE). 
 
-## Requirements
+## 🔧 Installation
 
 To set up the environment and install all dependencies, run:
 
 ```bash
+git clone https://github.com/ZhengyangShan/GIFI.git
+cd GIFI
 pip install -r requirements.txt
+pip install -e .
 ```
 
 ## Evaluation
@@ -98,6 +101,9 @@ python Stereotypical_Association-Occupational_Fairness.py
 ```bash
 python Performance_Equality.py
 ```
+
+
+## 🥳 Citations
 
 
 
