@@ -59,8 +59,6 @@ GIFI/
 │   ├── Counterfactual_Fairness.py
 │   ├── Stereotypical_Association-Occupational_Fairness.py
 │   └── Performance_Equality.py
-├── demo/
-│   └── gradio_app.py  # (interactive UI)
 ├── figures/
 ├── requirements.txt
 └── README.md
