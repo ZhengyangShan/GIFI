@@ -1,18 +1,25 @@
 # Gender Inclusivity Fairness Index (GIFI): A Multilevel Framework for Evaluating Gender Diversity in  Large Language Models
 
-This repository contains code for analyzing and measuring gender inclusivity and bias in large language models (LLMs) by introducing the Gender Inclusivity Fairness Index (GIFI). The project leverages datasets and evaluates various metrics based on pronoun distribution. 
+This repository provides code, datasets, and evaluation pipelines for analyzing and measuring gender inclusivity and bias in large language models (LLMs). We introduce the **Gender Inclusivity Fairness Index (GIFI)** — a comprehensive and scalable benchmark for LLMs across binary and non-binary gender representations.
 
 🔍 [Website](https://zhengyangshan.github.io/GIFI.github.io/)
 
 📄 Paper
 
 ## 🗣️ Overview 
-We present a comprehensive evaluation of gender fairness in large language models (LLMs), focusing on their ability to handle both binary and non-binary genders. 
-While previous studies primarily focus on binary gender distinctions,
-we introduce the Gender Inclusivity Fairness Index (GIFI), a novel and comprehensive metric that quantifies the diverse gender inclusivity of LLMs. GIFI consists of a wide range of evaluations at different levels, from simply probing the model with respect to provided gender pronouns to testing various aspects of model generation and cognitive behaviors under different gender assumptions, revealing biases associated with varying gender identifiers.
-We conduct extensive evaluations with GIFI on 22 prominent open-source and proprietary LLMs of varying sizes and capabilities, discovering significant variations in LLMs' gender inclusivity.
-Our study highlights the importance of improving LLMs’ inclusivity, providing a critical benchmark for future advancements in gender fairness in generative models.
+GIFI evaluates the capacity of LLMs to fairly and accurately handle diverse gender identities. It measures fairness across **seven dimensions**:
 
+| Dimension                        | Abbr | Description                                                                 |
+|----------------------------------|------|-----------------------------------------------------------------------------|
+| Gender Diversity Recognition     | GDR  | Recognizes and generates correct grammatical usage of diverse pronouns     |
+| Sentiment Neutrality            | SN   | Keeps sentiment consistent across gender variations                        |
+| Non-Toxicity Score              | NTS  | Avoids toxic language toward binary and non-binary identities             |
+| Counterfactual Fairness         | CF   | Produces semantically similar outputs across gender replacements           |
+| Stereotypical Association       | SA   | Avoids gender stereotypes in role assignments                              |
+| Occupational Fairness           | OF   | Avoids unfair gender bias in occupation mentions                           |
+| Performance Equality            | PE   | Maintains consistency in reasoning/maths performance across genders        |
+
+We evaluate **22 models** (open and proprietary) and identify major disparities in gender inclusivity across model families and scales.
 <p align="center">
   <img src="figures/GIFI-ranking.png" alt="Image 1" width="45%">
   <img src="figures/GIFI.png" alt="Image 2" width="45%">
@@ -36,17 +43,39 @@ Our study highlights the importance of improving LLMs’ inclusivity, providing 
   - `Performance_Equality.py`: Script for math performance anlysis.
 - **Figures Directory**: `figures/`
   - Contains output and analysis results.
+ 
 
-### Datasets
+## ⚙️ Project Structure
 
-`data/model-generation/`
+```bash
+GIFI/
+├── data/
+│   ├── template/
+│   └── model-generation/
+├── code/
+│   ├── Gender_Diversity_Recognition.py
+│   ├── Sentiment_Neutrality.py
+│   ├── Non-Toxicity-Score.py
+│   ├── Counterfactual_Fairness.py
+│   ├── Stereotypical_Association-Occupational_Fairness.py
+│   └── Performance_Equality.py
+├── demo/
+│   └── gradio_app.py  # (interactive UI)
+├── figures/
+├── requirements.txt
+└── README.md
+```
 
-- **gender-pronoun-recognition**: Contains generated sentences for gender diversity recognition (GDR).
-- **sentiment-toxicity-counterfactual**: Contains generated sentences for sentiment (SN), non toxicity (NTS) and semantic similarity (CF) analysis.
-- **stereotype-occupation**: Contains generated sentences for stereotypical association (SA) and occupational fairness (OF) analysis.
-- **math-performance-equality**: Contains generated sentences for math analysis (PE). 
+### 🧪 Datasets
 
-## 🔧 Installation
+All generations are saved under `data/model-generation/`
+
+- **gender-pronoun-recognition**: for gender diversity recognition (GDR).
+- **sentiment-toxicity-counterfactual**: for sentiment (SN), non toxicity (NTS) and semantic similarity (CF) analysis.
+- **stereotype-occupation**: for stereotypical association (SA) and occupational fairness (OF) analysis.
+- **math-performance-equality**: for math analysis (PE). 
+
+## 🧩 Installation
 
 To set up the environment and install all dependencies, run:
 
@@ -54,19 +83,28 @@ To set up the environment and install all dependencies, run:
 git clone https://github.com/ZhengyangShan/GIFI.git
 cd GIFI
 pip install -r requirements.txt
-pip install -e .
 ```
 
-## Evaluation
+You may also create a virtual environment:
 
-### Pronoun Recognition 
+```bash
+python3 -m venv gifi-env
+source gifi-env/bin/activate
+pip install -r requirements.txt
+```
+
+## 🚀 Evaluation Pipeline 
+
+Each script runs independently for evaluating a specific fairness metric
+
+### 🔵 Pronoun Recognition 
 - Gender Diversity Recognition (GDR)
 
 ```bash
 python Gender_Diversity_Recognition.py
 ```
 
-### Fairness in Distribution 
+### 🟡 Fairness in Distribution 
 - Sentiment Neutrality (SN)
 
 ```bash
@@ -86,7 +124,7 @@ Set up your API key at [here](https://perspectiveapi.com).
 ```bash
 python Non-Toxicity-Score.py
 ```
-### Stereotype and Role Assignment 
+### 🟣 Stereotype and Role Assignment 
 
 - Stereotype and Occupation (SA & OF)
 
@@ -94,7 +132,7 @@ python Non-Toxicity-Score.py
 python Stereotypical_Association-Occupational_Fairness.py
 ```
 
-### Consistency in Performance
+### 🟠 Consistency in Performance
 
 - Performance Equality (PE)
 
@@ -105,6 +143,11 @@ python Performance_Equality.py
 
 ## 🥳 Citations
 
+If you find this useful, please consider citing our work and starring the repo.
+
+
+
+Got questions or want to contribute? Open an issue or contact us directly via the GitHub Discussion page.
 
 
 
