@@ -96,8 +96,11 @@ Each script runs independently for evaluating a specific fairness metric
 ### 🔵 Pronoun Recognition 
 - Gender Diversity Recognition (GDR)
 
+Replace MODEL_NAME with acutal model name. 
+
 ```bash
-python Gender_Diversity_Recognition.py
+python Gender_Diversity_Recognition.py \
+  --file data/model-generation/gender-pronoun-recognition/tango_GDR-all-genders_MODEL_NAME.csv
 ```
 
 ### 🟡 Fairness in Distribution 
