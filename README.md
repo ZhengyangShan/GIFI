@@ -127,8 +127,11 @@ python Non-Toxicity-Score.py
 
 - Stereotype and Occupation (SA & OF)
 
+Replace MODEL_NAME with acutal model name. 
+
 ```bash
-python Stereotypical_Association-Occupational_Fairness.py
+python Stereotypical_Association-Occupational_Fairness.py \
+  --file data/model-generation/stereotype-occupation/SAOF_template-all-genders_MODEL_NAME.csv
 ```
 
 ### 🟠 Consistency in Performance
