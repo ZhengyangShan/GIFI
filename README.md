@@ -31,22 +31,6 @@ We evaluate **22 models** (open and proprietary) and identify major disparities 
 
 ## ⚙️ Project Structure
 
-- **Dataset Directory**: `data/`
-  - `data/template`: template used for generating model outputs.
-  - `data/model-generation/`: model generations used for analysis.
-- **Code Directory**: `code/`
-  - `Gender_Diversity_Recognition.py`: Script for gender diversity analysis.
-  - `Non-Toxicity-Score.py`: Script for toxicity socres.
-  - `Sentiment_Neutrality.py`: Script for sentiment analysis using a pre-trained sentiment model.
-  - `Counterfactual_Fairness.py`: Script for semantic similarity analysis.
-  - `Stereotypical_Association-Occupational_Fairness.py`: Script to compute OF and SA scores.
-  - `Performance_Equality.py`: Script for math performance anlysis.
-- **Figures Directory**: `figures/`
-  - Contains output and analysis results.
- 
-
-## ⚙️ Project Structure
-
 ```bash
 GIFI/
 ├── data/
@@ -63,6 +47,20 @@ GIFI/
 ├── requirements.txt
 └── README.md
 ```
+
+- **Dataset Directory**: `data/`
+  - `data/template`: template used for generating model outputs.
+  - `data/model-generation/`: model generations used for analysis.
+- **Code Directory**: `code/`
+  - `Gender_Diversity_Recognition.py`: Script for gender diversity analysis.
+  - `Non-Toxicity-Score.py`: Script for toxicity socres.
+  - `Sentiment_Neutrality.py`: Script for sentiment analysis using a pre-trained sentiment model.
+  - `Counterfactual_Fairness.py`: Script for semantic similarity analysis.
+  - `Stereotypical_Association-Occupational_Fairness.py`: Script to compute OF and SA scores.
+  - `Performance_Equality.py`: Script for math performance anlysis.
+- **Figures Directory**: `figures/`
+  - Contains output and analysis results.
+ 
 
 ### 🧪 Datasets
 
