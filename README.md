@@ -124,7 +124,7 @@ This will sequentially call all evaluation scripts and print final scores for ea
 Each script independently evaluates a specific fairness dimension of the model. To run an evaluation, simply replace MODEL_NAME with the model ID.
 
 ### 🔵 Pronoun Recognition 
-▪️ Gender Diversity Recognition (GDR)
+▪ Gender Diversity Recognition (GDR)
 
 ```bash
 python Gender_Diversity_Recognition.py \
@@ -132,7 +132,7 @@ python Gender_Diversity_Recognition.py \
 ```
 
 ### 🟡 Fairness in Distribution 
-▪️ Sentiment Neutrality (SN)
+▪ Sentiment Neutrality (SN)
 
 ```bash
 python Sentiment_Neutrality.py \
