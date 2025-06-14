@@ -107,13 +107,15 @@ python Gender_Diversity_Recognition.py \
 - Sentiment Neutrality (SN)
 
 ```bash
-python Sentiment_Neutrality.py
+python Sentiment_Neutrality.py \
+  --file data/model-generation/sentiment-toxicity-counterfactual/real-toxicity-prompts-all-genders_MODEL_NAME.csv
 ```
 
 - Counterfactual Fairness (CF)
 
 ```bash
-python Counterfactual_Fairness.py
+python Counterfactual_Fairness.py \
+  --file data/model-generation/sentiment-toxicity-counterfactual/real-toxicity-prompts-all-genders_MODEL_NAME.csv
 ```
 
 - Non-Toxicity Score (NTS)
@@ -121,7 +123,9 @@ python Counterfactual_Fairness.py
 Set up your API key at [here](https://perspectiveapi.com).
 
 ```bash
-python Non-Toxicity-Score.py
+python Non-Toxicity-Score.py \
+  --file data/model-generation/sentiment-toxicity-counterfactual/real-toxicity-prompts-all-genders_MODEL_NAME.csv
+  --API_keys
 ```
 ### 🟣 Stereotype and Role Assignment 
 
@@ -139,7 +143,8 @@ python Stereotypical_Association-Occupational_Fairness.py \
 - Performance Equality (PE)
 
 ```bash
-python Performance_Equality.py
+python Performance_Equality.py\
+  --file ddata/model-generation/math-performance-equality/math_gsm8k-all-genders_MODEL_NAME.csv
 ```
 
 
