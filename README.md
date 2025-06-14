@@ -96,8 +96,6 @@ Each script independently evaluates a specific fairness dimension of the model. 
 ### 🔵 Pronoun Recognition 
 ▪️ Gender Diversity Recognition (GDR)
 
-Replace MODEL_NAME with acutal model name. 
-
 ```bash
 python Gender_Diversity_Recognition.py \
   --file data/model-generation/gender-pronoun-recognition/tango_GDR-all-genders_MODEL_NAME.csv
@@ -130,8 +128,6 @@ python Non-Toxicity-Score.py \
 ### 🟣 Stereotype and Role Assignment 
 
 ▪️ Stereotype and Occupation (SA & OF)
-
-Replace MODEL_NAME with acutal model name. 
 
 ```bash
 python Stereotypical_Association-Occupational_Fairness.py \
