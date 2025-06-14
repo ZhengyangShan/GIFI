@@ -67,7 +67,7 @@ GIFI/
   - Contains output and analysis results.
  
 
-### 🧪 Datasets
+### Datasets
 
 All generations are saved under `data/model-generation/`
 
@@ -102,13 +102,13 @@ Evaluate all seven fairness dimensions for a given model using one of the option
 
 🔑 Requires Perspective API key — obtain one from [Perspective API](https://perspectiveapi.com).
 
-### 🔁 Option 1: Shell Script (One Line)
+### Option 1: Shell Script (One Line)
 
 ```bash
 ./scripts/evaluate_model.sh MODEL_NAME YOUR_API_KEY
 ```
 
-### 🐍 Option 2: Python Wrapper
+### Option 2: Python Wrapper
 
 ```bash
 python scripts/run_all.py --model MODEL_NAME --key YOUR_API_KEY
