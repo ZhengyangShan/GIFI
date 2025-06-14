@@ -7,12 +7,6 @@ This repository provides code, datasets, and evaluation pipelines for analyzing 
 📄 Paper
 
 
-![GitHub stars](https://img.shields.io/github/stars/ZhengyangShan/GIFI?style=social)
-![License](https://img.shields.io/github/license/ZhengyangShan/GIFI)
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![Last Commit](https://img.shields.io/github/last-commit/ZhengyangShan/GIFI)
-
-
 ## 🗣️ Overview 
 GIFI evaluates the capacity of LLMs to fairly and accurately handle diverse gender identities. It measures fairness across **seven dimensions**:
 
