@@ -11,13 +11,13 @@ GIFI evaluates the capacity of LLMs to fairly and accurately handle diverse gend
 
 | Dimension                        | Abbr | Description                                                                 |
 |----------------------------------|------|-----------------------------------------------------------------------------|
-| Gender Diversity Recognition     | GDR  | Recognizes and generates correct grammatical usage of diverse pronouns     |
-| Sentiment Neutrality            | SN   | Keeps sentiment consistent across gender variations                        |
-| Non-Toxicity Score              | NTS  | Avoids toxic language toward binary and non-binary identities             |
-| Counterfactual Fairness         | CF   | Produces semantically similar outputs across gender replacements           |
-| Stereotypical Association       | SA   | Avoids gender stereotypes in role assignments                              |
-| Occupational Fairness           | OF   | Avoids unfair gender bias in occupation mentions                           |
-| Performance Equality            | PE   | Maintains consistency in reasoning/maths performance across genders        |
+| Gender Diversity Recognition     | GDR  | Evaluates whether the model generates grammatically correct outputs using the correct pronoun family.     |
+| Sentiment Neutrality            | SN   | Checks if sentiment polarity remains stable across gender variations.                   |
+| Non-Toxicity Score              | NTS  | Evaluates whether the model introduces more toxicity for certain gender prompts.             |
+| Counterfactual Fairness         | CF   | Measures semantic similarity between outputs with different gender pronouns.    |
+| Stereotypical Association       | SA   | Evaluates whether the model exhibits bias in assigning gendered pronouns to stereotyped roles.        |
+| Occupational Fairness           | OF   | Evaluates whether the model exhibits bias in occupation.                         |
+| Performance Equality            | PE   | Assesses whether the model solves math problems with equal accuracy across gender variants.        |
 
 We evaluate **22 models** (open and proprietary) and identify major disparities in gender inclusivity across model families and scales.
 <p align="center">
@@ -91,10 +91,10 @@ pip install -r requirements.txt
 
 ## 🚀 Evaluation Pipeline 
 
-Each script runs independently for evaluating a specific fairness metric
+Each script independently evaluates a specific fairness dimension of the model. To run an evaluation, simply replace MODEL_NAME with the actual name of the model you’re analyzing 
 
 ### 🔵 Pronoun Recognition 
-- Gender Diversity Recognition (GDR)
+▪️ Gender Diversity Recognition (GDR)
 
 Replace MODEL_NAME with acutal model name. 
 
@@ -104,23 +104,23 @@ python Gender_Diversity_Recognition.py \
 ```
 
 ### 🟡 Fairness in Distribution 
-- Sentiment Neutrality (SN)
+▪️ Sentiment Neutrality (SN)
 
 ```bash
 python Sentiment_Neutrality.py \
   --file data/model-generation/sentiment-toxicity-counterfactual/real-toxicity-prompts-all-genders_MODEL_NAME.csv
 ```
 
-- Counterfactual Fairness (CF)
+▪️ Counterfactual Fairness (CF)
 
 ```bash
 python Counterfactual_Fairness.py \
   --file data/model-generation/sentiment-toxicity-counterfactual/real-toxicity-prompts-all-genders_MODEL_NAME.csv
 ```
 
-- Non-Toxicity Score (NTS)
+▪️ Non-Toxicity Score (NTS)
 
-Set up your API key at [here](https://perspectiveapi.com). Replace YOUR_API_KEY with your actual key. 
+🔑 Requires Perspective API key — obtain one from [Perspective API](https://perspectiveapi.com). Replace YOUR_API_KEY with your actual key. 
 
 ```bash
 python Non-Toxicity-Score.py \
@@ -129,7 +129,7 @@ python Non-Toxicity-Score.py \
 ```
 ### 🟣 Stereotype and Role Assignment 
 
-- Stereotype and Occupation (SA & OF)
+▪️ Stereotype and Occupation (SA & OF)
 
 Replace MODEL_NAME with acutal model name. 
 
@@ -140,7 +140,7 @@ python Stereotypical_Association-Occupational_Fairness.py \
 
 ### 🟠 Consistency in Performance
 
-- Performance Equality (PE)
+▪️ Performance Equality (PE)
 
 ```bash
 python Performance_Equality.py\
