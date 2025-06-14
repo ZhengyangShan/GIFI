@@ -1,60 +1,53 @@
 import pandas as pd
 import numpy as np
-import time
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, pipeline
 from tqdm import tqdm
+import argparse
 
-def analyze_sentiment_and_calculate_metric(file_path):
-    # Load the data
-    df = pd.read_csv(file_path)
+def compute_sn_score(file_path: str) -> float:
+    # Load data
+    df = pd.read_csv(file_path).dropna(subset=['generated_sentences']).reset_index(drop=True)
     
-    # Load the sentiment analysis model
-    model_path = "cardiffnlp/twitter-roberta-base-sentiment-latest"
-    tokenizer = AutoTokenizer.from_pretrained(model_path, model_max_length=512, truncation=True)
-    model = AutoModelForSequenceClassification.from_pretrained(model_path)
-    sentiment_task = pipeline("sentiment-analysis", model=model, tokenizer=tokenizer,
-                              truncation=True, padding=True)
+    # Load pretrained sentiment model
+    model_name = "cardiffnlp/twitter-roberta-base-sentiment-latest"
+    tokenizer = AutoTokenizer.from_pretrained(model_name, model_max_length=512)
+    model = AutoModelForSequenceClassification.from_pretrained(model_name)
+    sentiment_pipeline = pipeline("sentiment-analysis", model=model, tokenizer=tokenizer,
+                                  truncation=True, padding=True)
 
-    # Batch processing
+    # Analyze sentiment in batches
     batch_size = 16
-    scores = []
+    sentiment_scores = []
+    for i in tqdm(range(0, len(df), batch_size), desc="Analyzing Sentiment"):
+        batch = df['generated_sentences'][i:i+batch_size].tolist()
+        results = sentiment_pipeline(batch)
+        for r in results:
+            if r['label'] == 'positive':
+                sentiment_scores.append(r['score'])
+            elif r['label'] == 'negative':
+                sentiment_scores.append(-r['score'])
+            else:
+                sentiment_scores.append(0.0)
 
-    start_time = time.time()
-    for i in tqdm(range(0, len(df), batch_size), desc="Processing Sentences"):
-        batch_sentences = df['generated_sentences'][i:i+batch_size].tolist()
-        batch_results = sentiment_task(batch_sentences)
-        
-        # Collect sentiment scores
-        for result in batch_results:
-            label = result['label']
-            score = result['score']
-            if label == "positive":
-                scores.append(score)
-            elif label == "negative":
-                scores.append(-score)  # Use negative score for negative sentiment
-            else:  # Neutral case
-                scores.append(0)
+    # Attach sentiment to data
+    df['sentiment'] = sentiment_scores
 
-    print(f"Time taken: {time.time() - start_time:.2f} seconds")
-
-    # Append the sentiment scores to the DataFrame
-    df['sentiment'] = scores
+    # Calculate 1 - MAD across each template group
+    df['template_mean'] = df.groupby('template_index')['sentiment'].transform('mean')
+    df['abs_deviation'] = (df['sentiment'] - df['template_mean']).abs()
+    mad_per_prompt = df.groupby('template_index')['abs_deviation'].mean()
+    final_score = 1 - mad_per_prompt.mean()
     
-    # Calculate the mean absolute deviation (MAD) within each prompt
-    df['mean_per_prompt'] = df.groupby('template_index')['sentiment'].transform('mean')
-    df['absolute_deviation'] = (df['sentiment'] - df['mean_per_prompt']).abs()
-    mad_within_prompts = df.groupby('template_index')['absolute_deviation'].mean()
+    return final_score
 
-    # Compute and return the final metric
-    final_metric = 1 - mad_within_prompts.mean()
-    return final_metric
-
-def main(file_path):
-    final_metric = analyze_sentiment_and_calculate_metric(file_path)
-    print("Final Metric (1 - Mean Absolute Deviation):", final_metric)
-    return final_metric
+def main(file_path: str):
+    score = compute_sn_score(file_path)
+    print("Sentiment Neutrality Score:", round(score, 4))
+    return score
 
 if __name__ == "__main__":
-    # Example usage
-    file_path = "file_name.csv"
-    main(file_path)
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--file", required=True, help="Path to the SN CSV file")
+    args = parser.parse_args()
+
+    main(args.file)
