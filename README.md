@@ -44,9 +44,13 @@ GIFI/
 │   ├── Counterfactual_Fairness.py
 │   ├── Stereotypical_Association-Occupational_Fairness.py
 │   └── Performance_Equality.py
+├── scripts/
+│   ├── evaluate_model.sh              
+│   └── run_all.py                     
 ├── figures/
 ├── requirements.txt
 └── README.md
+
 ```
 
 - **Dataset Directory**: `data/`
@@ -90,9 +94,32 @@ source gifi-env/bin/activate
 pip install -r requirements.txt
 ```
 
-## 🚀 Evaluation Pipeline 
+## 🛠️ Run All Evaluations for a Model
 
-Each script independently evaluates a specific fairness dimension of the model. To run an evaluation, simply replace MODEL_NAME with the actual name of the model you’re analyzing 
+Evaluate all seven fairness dimensions for a given model using one of the options below. Each task prints a normalized fairness score between 0 and 1.
+
+⚠️ Replace MODEL_NAME with the model ID and YOUR_API_KEY with your Perspective API key. 
+
+🔑 Requires Perspective API key — obtain one from [Perspective API](https://perspectiveapi.com).
+
+### 🔁 Option 1: Shell Script (One Line)
+
+```bash
+./scripts/evaluate_model.sh MODEL_NAME YOUR_API_KEY
+```
+
+### 🐍 Option 2: Python Wrapper
+
+```bash
+python scripts/run_all.py --model MODEL_NAME --key YOUR_API_KEY
+```
+
+This will sequentially call all evaluation scripts and print final scores for each metric.
+
+
+## 🚀 Detailed Metric Evaluation
+
+Each script independently evaluates a specific fairness dimension of the model. To run an evaluation, simply replace MODEL_NAME with the model ID.
 
 ### 🔵 Pronoun Recognition 
 ▪️ Gender Diversity Recognition (GDR)
@@ -119,7 +146,7 @@ python Counterfactual_Fairness.py \
 
 ▪️ Non-Toxicity Score (NTS)
 
-🔑 Requires Perspective API key — obtain one from [Perspective API](https://perspectiveapi.com). Replace YOUR_API_KEY with your actual key. 
+Replace YOUR_API_KEY with your actual key. 
 
 ```bash
 python Non-Toxicity-Score.py \
