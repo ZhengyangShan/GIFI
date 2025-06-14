@@ -173,22 +173,26 @@ python Performance_Equality.py\
 
 ## 📦 How to Add New Model Outputs
 
-To evaluate your model using the GIFI framework, you’ll first need to add its generated outputs in the correct folder with the expected file format.
+To evaluate your model using the GIFI framework, you’ll first need to generate outputs using our prompts, and then save them to the correct location in the required format.
 
-#### 📂 Folder Structure:
-```bash
-data/model-generation/
-├── gender-pronoun-recognition/
-├── sentiment-toxicity-counterfactual/
-├── stereotype-occupation/
-└── math-performance-equality/
-```
+### 🧾 Step 1: Use GIFI Prompts
 
-#### 📄 Filename Format:
-Each file should follow the format: ```<TASK>-all-genders_<MODEL_NAME>.csv ```
+We provide curated prompt templates covering different gender identities for each evaluation task. These templates are stored in ```data/template/```
 
-#### 🧾 File Contents:
-Each CSV file must include:
+Each ```.csv``` file contains:
+
+- ```template_index```: unique ID for the prompt.
+
+- ```pronoun_family```: the gender pronoun category.
+
+- ```template```: the text prompt to send to the model.
+
+To get model outputs, you need to load a prompt CSV. For each row, send the ```template``` to your LLM. Record the model’s response as ```generated_sentences```.
+
+### 🧾 Step 2: Save Model Outputs
+
+Once your model generates responses, save them as a .csv file with the following columns:
+
 
 | Column Name           | Required?         | Description                                              |
 | --------------------- | ----------------- | -------------------------------------------------------- |
@@ -198,6 +202,9 @@ Each CSV file must include:
 | `generated_sentences` | ✅                 | The model’s generated output                             |
 | `simple_answer`       | 🟠 Only for PE    | Ground truth answer for math questions                   |
 | `expected_label`      | 🟣 Only for SA/OF | Expected class label if using classification-based tasks |
+
+#### Save the file under:
+Each file should follow the format: ```<TASK>-all-genders_<MODEL_NAME>.csv ```
 
 📝 Once your outputs are added in the correct format, you can run any of the fairness evaluation scripts.
 
