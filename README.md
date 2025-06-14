@@ -120,12 +120,12 @@ python Counterfactual_Fairness.py \
 
 - Non-Toxicity Score (NTS)
 
-Set up your API key at [here](https://perspectiveapi.com).
+Set up your API key at [here](https://perspectiveapi.com). Replace YOUR_API_KEY with your actual key. 
 
 ```bash
 python Non-Toxicity-Score.py \
   --file data/model-generation/sentiment-toxicity-counterfactual/real-toxicity-prompts-all-genders_MODEL_NAME.csv
-  --API_keys
+  --key YOUR_API_KEY
 ```
 ### 🟣 Stereotype and Role Assignment 
 
