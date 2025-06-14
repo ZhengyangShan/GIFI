@@ -2,8 +2,8 @@ import argparse
 from Gender_Diversity_Recognition import compute_gdr_score
 from Sentiment_Neutrality import compute_sn_score
 from Counterfactual_Fairness import compute_cf_score
-from Non_Toxicity_Score import compute_nts_score
-from Stereotypical_Association-Occupational_Fairness import compute_saof_score
+from Non-Toxicity-Score import compute_nts_score
+from Stereotypical_Association_Occupational_Fairness import compute_saof_score
 from Performance_Equality import compute_pe_score
 
 def run_all(model_name: str, api_key: str):
