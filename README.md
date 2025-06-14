@@ -139,14 +139,14 @@ python Sentiment_Neutrality.py \
   --file data/model-generation/sentiment-toxicity-counterfactual/real-toxicity-prompts-all-genders_MODEL_NAME.csv
 ```
 
-▪️ Counterfactual Fairness (CF)
+▪ Counterfactual Fairness (CF)
 
 ```bash
 python Counterfactual_Fairness.py \
   --file data/model-generation/sentiment-toxicity-counterfactual/real-toxicity-prompts-all-genders_MODEL_NAME.csv
 ```
 
-▪️ Non-Toxicity Score (NTS)
+▪ Non-Toxicity Score (NTS)
 
 Replace YOUR_API_KEY with your actual key. 
 
@@ -157,7 +157,7 @@ python Non-Toxicity-Score.py \
 ```
 ### 🟣 Stereotype and Role Assignment 
 
-▪️ Stereotype and Occupation (SA & OF)
+▪ Stereotype and Occupation (SA & OF)
 
 ```bash
 python Stereotypical_Association-Occupational_Fairness.py \
@@ -166,7 +166,7 @@ python Stereotypical_Association-Occupational_Fairness.py \
 
 ### 🟠 Consistency in Performance
 
-▪️ Performance Equality (PE)
+▪ Performance Equality (PE)
 
 ```bash
 python Performance_Equality.py\
