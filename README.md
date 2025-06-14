@@ -4,6 +4,8 @@ This repository provides code, datasets, and evaluation pipelines for analyzing 
 
 🔍 [Website](https://zhengyangshan.github.io/GIFI.github.io/)
 
+🏆 [LeaderBoard](https://zhengyangshan.github.io/#gifi-leaderboard)
+
 📄 Paper
 
 
