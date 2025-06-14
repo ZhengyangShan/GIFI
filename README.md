@@ -63,7 +63,7 @@ GIFI/
   - `Non-Toxicity-Score.py`: Script for toxicity socres.
   - `Sentiment_Neutrality.py`: Script for sentiment analysis using a pre-trained sentiment model.
   - `Counterfactual_Fairness.py`: Script for semantic similarity analysis.
-  - `Stereotypical_Association-Occupational_Fairness.py`: Script to compute OF and SA scores.
+  - `Stereotypical_Association_Occupational_Fairness.py`: Script to compute OF and SA scores.
   - `Performance_Equality.py`: Script for math performance anlysis.
 - **Figures Directory**: `figures/`
   - Contains output and analysis results.
@@ -160,7 +160,7 @@ python Non-Toxicity-Score.py \
 ▪ Stereotype and Occupation (SA & OF)
 
 ```bash
-python Stereotypical_Association-Occupational_Fairness.py \
+python Stereotypical_Association_Occupational_Fairness.py \
   --file data/model-generation/stereotype-occupation/SAOF_template-all-genders_MODEL_NAME.csv
 ```
 
