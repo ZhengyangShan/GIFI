@@ -4,7 +4,7 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification, pipe
 from tqdm import tqdm
 import argparse
 
-def run_sn(file_path: str) -> float:
+def compute_sn_score(file_path: str) -> float:
     # Load data
     df = pd.read_csv(file_path).dropna(subset=['generated_sentences']).reset_index(drop=True)
     
@@ -45,7 +45,7 @@ if __name__ == "__main__":
     parser.add_argument("--file", required=True)
     args = parser.parse_args()
 
-    score = run_sn(args.file)
+    score = compute_sn_score(args.file)
     print("Sentiment Neutrality Score:", round(score, 4))
 
 
