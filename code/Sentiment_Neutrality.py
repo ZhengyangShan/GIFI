@@ -40,12 +40,14 @@ def compute_sn_score(file_path: str) -> float:
     
     return final_score
 
+def main(file_path: str):
+    score = compute_sn_score(file_path)
+    print("Sentiment Neutrality Score:", round(score, 4))
+    return score
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--file", required=True)
+    parser.add_argument("--file", required=True, help="Path to the SN CSV file")
     args = parser.parse_args()
 
-    score = compute_sn_score(args.file)
-    print("Sentiment Neutrality Score:", round(score, 4))
-
-
+    main(args.file)
