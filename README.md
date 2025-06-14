@@ -171,6 +171,35 @@ python Performance_Equality.py\
   --file ddata/model-generation/math-performance-equality/math_gsm8k-all-genders_MODEL_NAME.csv
 ```
 
+## 📦 How to Add New Model Outputs
+
+To evaluate your model using the GIFI framework, you’ll first need to add its generated outputs in the correct folder with the expected file format.
+
+#### 📂 Folder Structure:
+```bash
+data/model-generation/
+├── gender-pronoun-recognition/
+├── sentiment-toxicity-counterfactual/
+├── stereotype-occupation/
+└── math-performance-equality/
+```
+
+#### 📄 Filename Format:
+Each file should follow the format: ```bash <TASK>-all-genders_<MODEL_NAME>.csv ```
+
+#### 🧾 File Contents:
+Each CSV file must include:
+
+| Column Name           | Required?         | Description                                              |
+| --------------------- | ----------------- | -------------------------------------------------------- |
+| `template_index`      | ✅                 | Unique identifier for each template prompt               |
+| `pronoun_family`      | ✅                 | The gendered pronoun used in the prompt (e.g., "they")   |
+| `template`            | ✅                 | The original prompt template                             |
+| `generated_sentences` | ✅                 | The model’s generated output                             |
+| `simple_answer`       | 🟠 Only for PE    | Ground truth answer for math questions                   |
+| `expected_label`      | 🟣 Only for SA/OF | Expected class label if using classification-based tasks |
+
+📝 Once your outputs are added in the correct format, you can run any of the fairness evaluation scripts.
 
 ## 🥳 Citations
 
