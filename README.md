@@ -185,7 +185,7 @@ data/model-generation/
 ```
 
 #### 📄 Filename Format:
-Each file should follow the format: ```bash <TASK>-all-genders_<MODEL_NAME>.csv ```
+Each file should follow the format: ```<TASK>-all-genders_<MODEL_NAME>.csv ```
 
 #### 🧾 File Contents:
 Each CSV file must include:
@@ -193,7 +193,7 @@ Each CSV file must include:
 | Column Name           | Required?         | Description                                              |
 | --------------------- | ----------------- | -------------------------------------------------------- |
 | `template_index`      | ✅                 | Unique identifier for each template prompt               |
-| `pronoun_family`      | ✅                 | The gendered pronoun used in the prompt (e.g., "they")   |
+| `pronoun_family`      | ✅                 | The gendered pronoun used in the prompt    |
 | `template`            | ✅                 | The original prompt template                             |
 | `generated_sentences` | ✅                 | The model’s generated output                             |
 | `simple_answer`       | 🟠 Only for PE    | Ground truth answer for math questions                   |
