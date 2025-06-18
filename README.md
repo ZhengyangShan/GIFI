@@ -60,11 +60,11 @@ GIFI/
   - `data/model-generation/`: model generations used for analysis.
 - **Code Directory**: `code/`
   - `Gender_Diversity_Recognition.py`: Script for gender diversity analysis.
-  - `Non-Toxicity-Score.py`: Script for toxicity socres.
+  - `Non-Toxicity-Score.py`: Script for toxicity scores.
   - `Sentiment_Neutrality.py`: Script for sentiment analysis using a pre-trained sentiment model.
   - `Counterfactual_Fairness.py`: Script for semantic similarity analysis.
-  - `Stereotypical_Association-Occupational_Fairness.py`: Script to compute OF and SA scores.
-  - `Performance_Equality.py`: Script for math performance anlysis.
+  - `Stereotypical_Association_Occupational_Fairness.py`: Script to compute OF and SA scores.
+  - `Performance_Equality.py`: Script for math performance analysis.
 - **Figures Directory**: `figures/`
   - Contains output and analysis results.
  
@@ -124,7 +124,7 @@ This will sequentially call all evaluation scripts and print final scores for ea
 Each script independently evaluates a specific fairness dimension of the model. To run an evaluation, simply replace MODEL_NAME with the model ID.
 
 ### 🔵 Pronoun Recognition 
-▪️ Gender Diversity Recognition (GDR)
+▪ Gender Diversity Recognition (GDR)
 
 ```bash
 python Gender_Diversity_Recognition.py \
@@ -132,21 +132,21 @@ python Gender_Diversity_Recognition.py \
 ```
 
 ### 🟡 Fairness in Distribution 
-▪️ Sentiment Neutrality (SN)
+▪ Sentiment Neutrality (SN)
 
 ```bash
 python Sentiment_Neutrality.py \
   --file data/model-generation/sentiment-toxicity-counterfactual/real-toxicity-prompts-all-genders_MODEL_NAME.csv
 ```
 
-▪️ Counterfactual Fairness (CF)
+▪ Counterfactual Fairness (CF)
 
 ```bash
 python Counterfactual_Fairness.py \
   --file data/model-generation/sentiment-toxicity-counterfactual/real-toxicity-prompts-all-genders_MODEL_NAME.csv
 ```
 
-▪️ Non-Toxicity Score (NTS)
+▪ Non-Toxicity Score (NTS)
 
 Replace YOUR_API_KEY with your actual key. 
 
@@ -157,16 +157,16 @@ python Non-Toxicity-Score.py \
 ```
 ### 🟣 Stereotype and Role Assignment 
 
-▪️ Stereotype and Occupation (SA & OF)
+▪ Stereotype and Occupation (SA & OF)
 
 ```bash
-python Stereotypical_Association-Occupational_Fairness.py \
+python Stereotypical_Association_Occupational_Fairness.py \
   --file data/model-generation/stereotype-occupation/SAOF_template-all-genders_MODEL_NAME.csv
 ```
 
 ### 🟠 Consistency in Performance
 
-▪️ Performance Equality (PE)
+▪ Performance Equality (PE)
 
 ```bash
 python Performance_Equality.py\
