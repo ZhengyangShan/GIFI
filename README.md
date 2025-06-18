@@ -1,4 +1,19 @@
-# Gender Inclusivity Fairness Index (GIFI): A Multilevel Framework for Evaluating Gender Diversity in  Large Language Models
+<!-- # Gender Inclusivity Fairness Index (GIFI): A Multilevel Framework for Evaluating Gender Diversity in  Large Language Models -->
+
+<div align="center" style="font-family: charter;">
+  
+<h1><img src="examples/icon.png" width="5%"/>&nbsp;<i>Gender Inclusivity Fairness Index (GIFI)</i>:</br>A Multilevel Framework for Evaluating Gender Diversity in Large Language Models</h1>
+
+<a href="https://arxiv.org/abs/2506.123456" target="_blank">
+    <img alt="arXiv" src="https://img.shields.io/badge/arXiv-GIFI-red?logo=arxiv" height="20" /></a>
+<a href="https://zhengyangshan.github.io/GIFI.github.io/" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/🌎_Website-GIFI-blue.svg" height="20" /></a>
+<a href="https://zhengyangshan.github.io/GIFI.github.io/#gifi-leaderboard" target="_blank">
+  <img alt="Leaderboard" src="https://img.shields.io/badge/📊_Leaderboard-GIFI-green.svg?logo=rankup&logoColor=white" height="20" /></a>
+<a href="https://opensource.org/licenses/MIT" target="_blank">
+  <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg?logo=open-source-initiative&logoColor=white" height="20" /></a>
+
+</div>
 
 This repository provides code, datasets, and evaluation pipelines for analyzing and measuring gender inclusivity and bias in large language models (LLMs). We introduce the **Gender Inclusivity Fairness Index (GIFI)** — a comprehensive and scalable benchmark for LLMs across binary and non-binary gender representations.
 
@@ -214,9 +229,17 @@ Each file should follow the format: ```<TASK>-all-genders_<MODEL_NAME>.csv ```
 
 If you find this useful, please consider citing our work and starring the repo.
 
-
-
-
+```
+@inproceedings{shan-etal-2025-gifi,
+    title = "Gender Inclusivity Fairness Index (GIFI): A Multilevel Framework for Evaluating Gender Diversity in Large Language Models",
+    author = "Shan, Zhengyang and Diana, Emily Ruth and Zhou, Jiawei",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+}
+```
 
 
 
