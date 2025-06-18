@@ -15,7 +15,7 @@
 
 </div>
 
-This repository provides code, datasets, and evaluation pipelines for analyzing and measuring gender inclusivity and bias in large language models (LLMs). We introduce the **Gender Inclusivity Fairness Index (GIFI)** — a comprehensive and scalable benchmark for LLMs across binary and non-binary gender representations.
+This repository provides code, datasets, and evaluation pipelines for analyzing and measuring gender inclusivity and fairness in large language models (LLMs). We introduce the **Gender Inclusivity Fairness Index (GIFI)** — a comprehensive and scalable benchmark for LLMs across binary and non-binary gender representations.
 
 🔍 [Website](https://zhengyangshan.github.io/GIFI.github.io/)
 
