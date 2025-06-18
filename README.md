@@ -37,7 +37,7 @@ GIFI evaluates the capacity of LLMs to fairly and accurately handle diverse gend
 | Occupational Fairness           | OF   | Evaluates whether the model exhibits bias in occupation.                         |
 | Performance Equality            | PE   | Assesses whether the model solves math problems with equal accuracy across gender variants.        |
 
-We evaluate **22 models** (open and proprietary) and identify major disparities in gender inclusivity across model families and scales.
+We evaluate **22 models** (open and proprietary, as of May 2025) and identify major disparities in gender inclusivity across model families and scales.
 <p align="center">
   <img src="figures/GIFI-ranking.png" alt="Image 1" width="45%">
   <img src="figures/GIFI.png" alt="Image 2" width="45%">
