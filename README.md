@@ -4,7 +4,7 @@
   
 <h1><img src="img/icon.png" width="5%"/>&nbsp;<i>Gender Inclusivity Fairness Index (GIFI)</i>:</br>A Multilevel Framework for Evaluating Gender Diversity in Large Language Models</h1>
 
-<a href="https://arxiv.org/abs/2506.123456" target="_blank">
+<a href="https://arxiv.org/abs/2506.15568" target="_blank">
     <img alt="arXiv" src="https://img.shields.io/badge/arXiv-GIFI-red?logo=arxiv" height="20" /></a>
 <a href="https://zhengyangshan.github.io/GIFI.github.io/" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/🌎_Website-GIFI-blue.svg" height="20" /></a>
