@@ -21,7 +21,7 @@ This repository provides code, datasets, and evaluation pipelines for analyzing 
 
 🏆 [LeaderBoard](https://zhengyangshan.github.io/GIFI.github.io/#gifi-leaderboard)
 
-📄 Paper
+📄 [Paper](https://arxiv.org/abs/2506.15568)
 
 
 ## 🗣️ Overview 
