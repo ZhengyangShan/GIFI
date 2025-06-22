@@ -138,7 +138,7 @@ This will sequentially call all evaluation scripts and print final scores for ea
 
 Each script independently evaluates a specific fairness dimension of the model. To run an evaluation, simply replace MODEL_NAME with the model ID.
 
-### 🔵 Pronoun Recognition 
+### 🟡 Pronoun Recognition 
 ▪ Gender Diversity Recognition (GDR)
 
 ```bash
@@ -146,7 +146,7 @@ python Gender_Diversity_Recognition.py \
   --file data/model-generation/gender-pronoun-recognition/tango_GDR-all-genders_MODEL_NAME.csv
 ```
 
-### 🟡 Fairness in Distribution 
+### 🟢 Fairness in Distribution 
 ▪ Sentiment Neutrality (SN)
 
 ```bash
@@ -179,7 +179,7 @@ python Stereotypical_Association_Occupational_Fairness.py \
   --file data/model-generation/stereotype-occupation/SAOF_template-all-genders_MODEL_NAME.csv
 ```
 
-### 🟠 Consistency in Performance
+### 🔵 Consistency in Performance
 
 ▪ Performance Equality (PE)
 
