@@ -225,6 +225,25 @@ Each file should follow the format: ```<TASK>-all-genders_<MODEL_NAME>.csv ```
 
 📝 Once your outputs are added in the correct format, you can run any of the fairness evaluation scripts.
 
+### ⚡ One-liner: Generate All Outputs and Evaluate
+
+We provide a universal script that automatically generates all outputs and evaluates them in a single command.
+
+```
+python scripts/generate_and_evaluate.py --model MODEL_NAME --key YOUR_PERSPECTIVE_API_KEY --api_model_key YOUR_API_MODEL_KEY
+```
+
+Example usage: For a Hugging Face model, run:
+```python scripts/generate_and_evaluate.py --model gpt2 --key sk-perspective-key```
+
+For an OpenAI model, run:
+```python scripts/generate_and_evaluate.py --model gpt-4 --key sk-perspective-key --api_model_key sk-openai-key```
+
+This single command will automatically load all prompt templates, generate model completions, save outputs to `data/model-generation/`, evaluate all seven fairness metrics, and print the overall GIFI score.
+
+
+
+
 ## 🥳 Citations
 
 If you find this useful, please consider citing our work and starring the repo.
