@@ -233,7 +233,9 @@ We provide a universal script that automatically generates all outputs and evalu
 python scripts/generate_and_evaluate.py --model MODEL_NAME --key YOUR_PERSPECTIVE_API_KEY --api_model_key YOUR_API_MODEL_KEY
 ```
 
-Example usage: For a Hugging Face model, run:
+**Example usage:** 
+
+For a Hugging Face model, run:
 ```python scripts/generate_and_evaluate.py --model gpt2 --key sk-perspective-key```
 
 For an OpenAI model, run:
