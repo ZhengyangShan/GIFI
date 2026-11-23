@@ -42,7 +42,7 @@ configs:
 
 > **Content warning.** The `rtp` config comes from RealToxicityPrompts and contains profanity, sexual content, violence and insults. It is meant for measuring model behavior, not for training.
 
-**Paper:** [Gender Inclusivity Fairness Index (GIFI): A Multilevel Framework for Evaluating Gender Diversity in Large Language Models](https://aclanthology.org/2025.acl-long.128/) (ACL 2025, [PDF](https://aclanthology.org/2025.acl-long.128.pdf)) · **Code:** [github.com/ZhengyangShan/GIFI](https://github.com/ZhengyangShan/GIFI)
+**Paper:** [Gender Inclusivity Fairness Index (GIFI): A Multilevel Framework for Evaluating Gender Diversity in Large Language Models](https://aclanthology.org/2025.acl-long.128/) (ACL 2025, [PDF](https://aclanthology.org/2025.acl-long.128.pdf), [arXiv](https://arxiv.org/abs/2506.15568)) · **Code:** [github.com/ZhengyangShan/GIFI](https://github.com/ZhengyangShan/GIFI)
 
 These are the evaluation prompts for the **Gender Inclusivity Fairness Index (GIFI)**. GIFI measures how a language model treats 11 pronoun families: binary (he, she), neutral (they) and neopronouns (thon, e, ae, co, vi, xe, ey, ze). Each source item is rewritten once per family, and nothing else in it changes, so any difference in model behavior comes from the pronoun alone.
 
