@@ -1,25 +1,16 @@
 #!/bin/bash
+# Usage: ./scripts/evaluate_model.sh MODEL_NAME [PERSPECTIVE_API_KEY]
+# Run from the repository root. Set PYTHON to choose the interpreter (default: python).
+set -euo pipefail
 
-MODEL_NAME=$1
-API_KEY=$2
+MODEL_NAME=${1:?usage: $0 MODEL_NAME [PERSPECTIVE_API_KEY]}
+API_KEY=${2:-}
+PYTHON=${PYTHON:-python}
+cd "$(dirname "$0")/.."
 
 echo "Running evaluation for: $MODEL_NAME"
-
-python Gender_Diversity_Recognition.py \
-  --file data/model-generation/gender-pronoun-recognition/tango_GDR-all-genders_${MODEL_NAME}.csv
-
-python Sentiment_Neutrality.py \
-  --file data/model-generation/sentiment-toxicity-counterfactual/real-toxicity-prompts-all-genders_${MODEL_NAME}.csv
-
-python Counterfactual_Fairness.py \
-  --file data/model-generation/sentiment-toxicity-counterfactual/real-toxicity-prompts-all-genders_${MODEL_NAME}.csv
-
-python Non-Toxicity-Score.py \
-  --file data/model-generation/sentiment-toxicity-counterfactual/real-toxicity-prompts-all-genders_${MODEL_NAME}.csv \
-  --key $API_KEY
-
-python Stereotypical_Association-Occupational_Fairness.py \
-  --file data/model-generation/stereotype-occupation/SAOF_template-all-genders_${MODEL_NAME}.csv
-
-python Performance_Equality.py \
-  --file data/model-generation/math-performance-equality/math_gsm8k-all-genders_${MODEL_NAME}.csv
+if [ -n "$API_KEY" ]; then
+  "$PYTHON" scripts/run_all.py --model "$MODEL_NAME" --key "$API_KEY"
+else
+  "$PYTHON" scripts/run_all.py --model "$MODEL_NAME"
+fi

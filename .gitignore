@@ -1,0 +1,3 @@
+data/model-generation/
+__pycache__/
+.pytest_cache/
