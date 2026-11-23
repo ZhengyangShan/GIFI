@@ -48,10 +48,12 @@ These are the evaluation prompts for the **Gender Inclusivity Fairness Index (GI
 
 | config | rows | built from | metrics |
 |---|---|---|---|
-| `gdr` | 2,200 = 200 templates × 11 families | TANGO | Gender Diversity Recognition (GDR) |
-| `rtp` | 2,200 = 200 prompts × 11 families | RealToxicityPrompts | Sentiment Neutrality (SN), Non-Toxicity Score (NTS), Counterfactual Fairness (CF) |
-| `saof` | 200 prompts, each sampled 11 times | new templates | Stereotypical Association (SA), Occupational Fairness (OF) |
-| `pe` | 1,100 = 100 questions × 11 families | GSM8K | Performance Equality (PE) |
+| `gdr` | 2,200 = 200 templates × 11 families | TANGO ([Ovalle et al., 2023](https://doi.org/10.1145/3593013.3594078)) | Gender Diversity Recognition (GDR) |
+| `rtp` | 2,200 = 200 prompts × 11 families | RealToxicityPrompts ([Gehman et al., 2020](https://aclanthology.org/2020.findings-emnlp.301/)) | Sentiment Neutrality (SN), Non-Toxicity Score (NTS), Counterfactual Fairness (CF) |
+| `saof` | 200 prompts, each sampled 11 times | new templates ([Shan et al., 2025](https://aclanthology.org/2025.acl-long.128/)), structure from Dong et al. (2024) | Stereotypical Association (SA), Occupational Fairness (OF) |
+| `pe` | 1,100 = 100 questions × 11 families | GSM8K ([Cobbe et al., 2021](https://github.com/openai/grade-school-math)) | Performance Equality (PE) |
+
+Full BibTeX entries for every cited paper are in [Citation](#citation).
 
 The GIFI index is 100 × the mean of the seven metric scores.
 
@@ -214,7 +216,7 @@ If you use this dataset, please cite the GIFI paper:
 }
 ```
 
-The prompts are adapted from the following datasets. Please cite them too, in particular TANGO, whose CC BY-SA 4.0 license requires attribution:
+The prompts are adapted from the following datasets, and the SA/OF templates follow Dong et al. (2024). Please cite them too, in particular TANGO, whose CC BY-SA 4.0 license requires attribution:
 
 ```bibtex
 @inproceedings{ovalle2023fully,
@@ -235,10 +237,20 @@ The prompts are adapted from the following datasets. Please cite them too, in pa
     doi = "10.18653/v1/2020.findings-emnlp.301"
 }
 
-@article{cobbe2021gsm8k,
+@misc{cobbe2021gsm8k,
     title = "Training Verifiers to Solve Math Word Problems",
     author = "Cobbe, Karl and Kosaraju, Vineet and Bavarian, Mohammad and Chen, Mark and Jun, Heewoo and Kaiser, Lukasz and Plappert, Matthias and Tworek, Jerry and Hilton, Jacob and Nakano, Reiichiro and Hesse, Christopher and Schulman, John",
-    journal = "arXiv preprint arXiv:2110.14168",
-    year = "2021"
+    year = "2021",
+    eprint = "2110.14168",
+    archivePrefix = "arXiv",
+    primaryClass = "cs.LG"
+}
+
+@misc{dong2024disclosure,
+    title = "Disclosure and Mitigation of Gender Bias in {LLM}s",
+    author = "Dong, Xiangjue and Wang, Yibo and Yu, Philip S. and Caverlee, James",
+    year = "2024",
+    eprint = "2402.11190",
+    archivePrefix = "arXiv"
 }
 ```
