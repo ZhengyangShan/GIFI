@@ -10,6 +10,8 @@
     <img alt="Website" src="https://img.shields.io/badge/🌎_Website-GIFI-blue.svg" height="20" /></a>
 <a href="https://zhengyangshan.github.io/GIFI.github.io/#gifi-leaderboard" target="_blank">
   <img alt="Leaderboard" src="https://img.shields.io/badge/📊_Leaderboard-GIFI-green.svg?logo=rankup&logoColor=white" height="20" /></a>
+<a href="https://huggingface.co/datasets/szyszy/GIFI-Gender-Bias-Pronoun-Benchmark" target="_blank">
+  <img alt="Hugging Face Dataset" src="https://img.shields.io/badge/🤗_Dataset-GIFI-orange.svg" height="20" /></a>
 <a href="https://opensource.org/licenses/MIT" target="_blank">
   <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg?logo=open-source-initiative&logoColor=white" height="20" /></a>
 
@@ -20,6 +22,8 @@ This repository provides code, datasets, and evaluation pipelines for analyzing 
 🔍 [Website](https://zhengyangshan.github.io/GIFI.github.io/)
 
 🏆 [LeaderBoard](https://zhengyangshan.github.io/GIFI.github.io/#gifi-leaderboard)
+
+🤗 [Dataset on Hugging Face](https://huggingface.co/datasets/szyszy/GIFI-Gender-Bias-Pronoun-Benchmark): `load_dataset("szyszy/GIFI-Gender-Bias-Pronoun-Benchmark", "gdr")` (configs: `gdr`, `rtp`, `saof`, `pe`)
 
 📄 [Paper](https://arxiv.org/abs/2506.15568)
 
